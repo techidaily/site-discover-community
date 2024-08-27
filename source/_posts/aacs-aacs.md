@@ -1,7 +1,7 @@
 ---
 title: AACSキー使用法集 | ブルーレイディスク再生解放技術AACSに関する概要
-date: 2024-08-25 16:26:38
-updated: 2024-08-27 11:50:10
+date: 2024-08-26T15:48:59.134Z
+updated: 2024-08-27T15:48:59.134Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e29c16f1ef4c1543e402a7a3.jpg
@@ -23,6 +23,9 @@ aacs解除ソフト、aacs解除方法を分かる前、aacsとは何か？aacs 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## （1）ブルーレイコピーガードaacsに関する知識
 
 AACSはAdvanced Access Content Systemの略称で、コンピュータ・家電メーカーが結成した団体AACS LAが策定した映像コンテンツのコピープロテクト規格。HD DVD・Blu-ray Discの再生専用ディスクと書き込み用ディスクで採用されている。
@@ -33,6 +36,13 @@ AACSはAdvanced Access Content Systemの略称で、コンピュータ・家電�
 
 ![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051001.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### **AACS解除前、AACS付きブルーレイを分かっておくべき**
 
 ■ 市販/レンタルブルーレイにはAACSが掛かられていて、AACS解除ソフトを使わないと、再生はできない；
@@ -69,6 +79,9 @@ AACSの仕組みはちょっと難しくて、様々なキーがある。AACSの
 
 ■ お使いの再生ソフト：お使いのAACS再生ソフトは無料なら、基本的に再生できない。技術的保護手段が施されていないブルーレイは無料のメディアプレーヤーで再生できない。
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## （3）AACSバージョンを確認する方法
 
 ![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051003.jpg) 
@@ -83,6 +96,9 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 **Step3：**BzEditorバイナリエディタを開き、「MKB\_RW.inf」ファイルをドラッグ＆ドロップする。0x0008～0x000Bまでの値がAACSバージョンである。
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### BackupBDAVを使ってAACSバージョンを確認
 
 **Step1**：BackupBDAVをダウンロードしてZipファイルを解凍する。
@@ -101,10 +117,16 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 ネットでは、AACS解除2018最新ソフトってあるのかと探している方は多い。そこで今回は、AACSコピーガードを解除でき、いつでもどこでもAACS再生を行えるソフトをランキング形式でまとめてみた。
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### aacs解除・aacs再生ソフト：DVDFab Passkey for ブルーレイ
 
 ![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051004.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 **【対応OS】：**Windows11/10/8.1/8/7/Vista
 
 **【価格】**：54.9ドル
@@ -126,6 +148,9 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 ![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051005.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### aacs解除・aacs再生ソフト：Leawo Blu-rayコピー
 
 **【対応OS】**：Windows 11/macOS Monterey
@@ -172,10 +197,17 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 ■ お使いの再生ソフト：お使いのAACS再生ソフトは無料なら、基本的に再生できない。技術的保護手段が施されていないブルーレイは無料のメディアプレーヤーで再生できない。
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## （3）AACSバージョンを確認する方法
 
 ![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051003.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AACSバージョンを確認する方法を一緒に見ていこう。ここでは、二つのAACS確認方法を紹介し参考にしてみてください。
 
 ### ブルーレイディスクを使ってAACSバージョンを確認
@@ -186,6 +218,82 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 **Step3：**BzEditorバイナリエディタを開き、「MKB\_RW.inf」ファイルをドラッグ＆ドロップする。0x0008～0x000Bまでの値がAACSバージョンである。
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### BackupBDAVを使ってAACSバージョンを確認
+
+**Step1**：BackupBDAVをダウンロードしてZipファイルを解凍する。
+
+**Step2：**無事に解凍されたら、フォルダの中にはaacskeys.exeがある。そして、このソフトをコマンドプロントから開くとAACSバージョンを表示させることが可能。
+
+**Step3：**「全てのプログラム」⇒「アクセサリ」からコマンドプロントを起動する。aacskeys.exeのディレクトリ「G：」と入力しEnterキーを押す。
+
+**Step4：**「G:\\>aacskeys h d」と入力してEnterキーを押す。ブルーレイドライブがDの場合は、「G:\\>aacskeys d d」と入力する。
+
+**Step5：**AACSバージョンが表示される。AACS V1と表示されたら、AACSバージョンは1である。
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## （4）AACS解除2018ソフト｜AACSコピーガード付きものを移動中でも再生できる
+
+以前、AnyDVD HDはAACS解除に特化されるソフトで、2016年2月24日に販売停止されてしまって、AACS解除を行えることは難しくなる。2017年AnyDVD HDがredfoxとして再開されたが、AACS解除力は持っていないようである。
+
+ネットでは、AACS解除2018最新ソフトってあるのかと探している方は多い。そこで今回は、AACSコピーガードを解除でき、いつでもどこでもAACS再生を行えるソフトをランキング形式でまとめてみた。
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### aacs解除・aacs再生ソフト：DVDFab Passkey for ブルーレイ
+
+![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051004.jpg) 
+
+**【対応OS】：**Windows11/10/8.1/8/7/Vista
+
+**【価格】**：54.9ドル
+
+**【特徴】：**
+
+■ 制限なくブルーレイおよび4K Ultra HDブルーレイムービー（Cinavia保護メディアを除く）に自由にアクセスして再生できる。  
+■ スクリーンパスなどの特定の保護機能を削除できないため、一部の第三者ソフトウェア、AnyDVDなどのBlu-ray ISOファイルやフォルダの再生に関する問題を解決できる。
+
+**【使い方】：**
+
+**Step1**：公式サイトにアクセスして、Passkey for Blu-rayの最新版をダウンロードして、インストールする。
+
+**Step2：**DVDFab Passkeyを起動して、メンバーに登録したメールアドレスとパスワードで認証する。「DVDFab passkeyを起動する」ボタンをクリックする。Passkeyはタスクバーに最小化して、ドライブにディスクがあるかどうかご確認する。
+
+**Step3：**ブルーレイディスクをドライブに挿入し、読み込んだ後、このAACS解除ソフトは自動的に解析する。解除されたら、インタフェースの右側でタスクの詳細情報が表示される。
+
+**Step4：**解読タスクが完了された後、解読されたBlu-rayをBlu-rayプレーヤーで再生できる。
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+## （3）AACSバージョンを確認する方法
+
+![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051003.jpg) 
+
+AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AACSバージョンを確認する方法を一緒に見ていこう。ここでは、二つのAACS確認方法を紹介し参考にしてみてください。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### ブルーレイディスクを使ってAACSバージョンを確認
+
+**Step1：**ブルーレイディスクのAACS情報は、「AACS」⇒「MKB\_RW.inf」ファイルに記載されている。
+
+**Step2：**普通のテキストエディタで開くのではなく、BzEditor/ Stirlingバイナリエディタで開く必要がある。ここでは、BzEditorを使って説明する。
+
+**Step3：**BzEditorバイナリエディタを開き、「MKB\_RW.inf」ファイルをドラッグ＆ドロップする。0x0008～0x000Bまでの値がAACSバージョンである。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### BackupBDAVを使ってAACSバージョンを確認
 
 **Step1**：BackupBDAVをダウンロードしてZipファイルを解凍する。
@@ -229,63 +337,6 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 
 
-## （3）AACSバージョンを確認する方法
-
-![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051003.jpg) 
-
-AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AACSバージョンを確認する方法を一緒に見ていこう。ここでは、二つのAACS確認方法を紹介し参考にしてみてください。
-
-### ブルーレイディスクを使ってAACSバージョンを確認
-
-**Step1：**ブルーレイディスクのAACS情報は、「AACS」⇒「MKB\_RW.inf」ファイルに記載されている。
-
-**Step2：**普通のテキストエディタで開くのではなく、BzEditor/ Stirlingバイナリエディタで開く必要がある。ここでは、BzEditorを使って説明する。
-
-**Step3：**BzEditorバイナリエディタを開き、「MKB\_RW.inf」ファイルをドラッグ＆ドロップする。0x0008～0x000Bまでの値がAACSバージョンである。
-
-### BackupBDAVを使ってAACSバージョンを確認
-
-**Step1**：BackupBDAVをダウンロードしてZipファイルを解凍する。
-
-**Step2：**無事に解凍されたら、フォルダの中にはaacskeys.exeがある。そして、このソフトをコマンドプロントから開くとAACSバージョンを表示させることが可能。
-
-**Step3：**「全てのプログラム」⇒「アクセサリ」からコマンドプロントを起動する。aacskeys.exeのディレクトリ「G：」と入力しEnterキーを押す。
-
-**Step4：**「G:\\>aacskeys h d」と入力してEnterキーを押す。ブルーレイドライブがDの場合は、「G:\\>aacskeys d d」と入力する。
-
-**Step5：**AACSバージョンが表示される。AACS V1と表示されたら、AACSバージョンは1である。
-
-## （4）AACS解除2018ソフト｜AACSコピーガード付きものを移動中でも再生できる
-
-以前、AnyDVD HDはAACS解除に特化されるソフトで、2016年2月24日に販売停止されてしまって、AACS解除を行えることは難しくなる。2017年AnyDVD HDがredfoxとして再開されたが、AACS解除力は持っていないようである。
-
-ネットでは、AACS解除2018最新ソフトってあるのかと探している方は多い。そこで今回は、AACSコピーガードを解除でき、いつでもどこでもAACS再生を行えるソフトをランキング形式でまとめてみた。
-
-### aacs解除・aacs再生ソフト：DVDFab Passkey for ブルーレイ
-
-![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051004.jpg) 
-
-**【対応OS】：**Windows11/10/8.1/8/7/Vista
-
-**【価格】**：54.9ドル
-
-**【特徴】：**
-
-■ 制限なくブルーレイおよび4K Ultra HDブルーレイムービー（Cinavia保護メディアを除く）に自由にアクセスして再生できる。  
-■ スクリーンパスなどの特定の保護機能を削除できないため、一部の第三者ソフトウェア、AnyDVDなどのBlu-ray ISOファイルやフォルダの再生に関する問題を解決できる。
-
-**【使い方】：**
-
-**Step1**：公式サイトにアクセスして、Passkey for Blu-rayの最新版をダウンロードして、インストールする。
-
-**Step2：**DVDFab Passkeyを起動して、メンバーに登録したメールアドレスとパスワードで認証する。「DVDFab passkeyを起動する」ボタンをクリックする。Passkeyはタスクバーに最小化して、ドライブにディスクがあるかどうかご確認する。
-
-**Step3：**ブルーレイディスクをドライブに挿入し、読み込んだ後、このAACS解除ソフトは自動的に解析する。解除されたら、インタフェースの右側でタスクの詳細情報が表示される。
-
-**Step4：**解読タスクが完了された後、解読されたBlu-rayをBlu-rayプレーヤーで再生できる。
-
-
-
 ## （4）AACS解除2018ソフト｜AACSコピーガード付きものを移動中でも再生できる
 
 以前、AnyDVD HDはAACS解除に特化されるソフトで、2016年2月24日に販売停止されてしまって、AACS解除を行えることは難しくなる。2017年AnyDVD HDがredfoxとして再開されたが、AACS解除力は持っていないようである。
@@ -294,10 +345,16 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### aacs解除・aacs再生ソフト：DVDFab Passkey for ブルーレイ
 
 ![AACS解除](https://www.macxdvd.com/blog/img/remove-aacs-protection-from-blu-ray-051004.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **【対応OS】：**Windows11/10/8.1/8/7/Vista
 
 **【価格】**：54.9ドル
@@ -376,6 +433,9 @@ AACSキー、AACS仕組み、AACS再生できない原因を了解した後、AA
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## まとめ
 
 いかがでしたか。今回は、aacs解除2024｜ブルーレイコピーガードaacsに関する知識、AACSキー・aacs再生方法について詳しく紹介してみた。
@@ -394,12 +454,23 @@ AACSの暗号解除については、2006年12月に海外の掲示板などで�
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 
 
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/copy-dvd-to-blu-ray-free-0510.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 [DVDをブルーレイにコピー｜初心者に優しいDVD blu-ray変換無料ソフト](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/dvd-copy-ilegal-0510.jpg) 
@@ -412,6 +483,9 @@ AACSの暗号解除については、2006年12月に海外の掲示板などで�
 
 ![](https://www.macxdvd.com/blog/img/suteki-burn-smartphone-video-to-dvd-03.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [すげぇー！アダルト DVD ダビングしたい方向けの裏ワザが公開！](https://tools.techidaily.com/macxdvd/products/)
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Review of the Satechi SM1 Slim Mechanical Keyboard: The Ultimate Compatible Device for Windows & Mac Enthusiasts"
-date: 2024-08-27 22:45:37
-updated: 2024-08-29 11:28:29
+date: 2024-08-30T20:37:41.833Z
+updated: 2024-08-31T20:37:41.833Z
 tags:
   - product-reviews
 categories:
@@ -99,6 +99,10 @@ Jerome Thomas / How-To Geek
 
  For my testing, I had Bluetooth 1 paired to my Windows desktop, while Bluetooth 2 was paired to my MacBook Pro. Whenever I would switch between the two, I would also have to switch what mode the keyboard was in. This takes just an extra click, but honestly, I don’t think that it would have been that hard to store the last chosen OS profile within the pairing profile on the keyboard. It’s possible that Satechi could push out a firmware update that allowed this, but I don’t really see that happening for a keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  Satechi’s SM1 Wireless Keyboard Has Pretty Great Battery Life
 
 ![Front of the Satechi SM1 connected wirelessly with the backlight on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53489230846_d9bf4d48fa_o.jpg) 
@@ -109,22 +113,34 @@ Jerome Thomas / How-To Geek
 
  With the lighting turned off, you can get up to two months of use according to Satechi. However, once you turn the lights on (assuming full brightness), you’ll be looking at about 16 or so hours of usage before it’s time to plug in. With how fast the keyboard puts itself to sleep, those 16 hours could easily last you all week without having to plug it in since it shuts down between typing sessions relatively quickly. And, while I typically hate keyboards going to sleep because they always take forever to wake back up and pair to start typing again, the lag between the Satechi SM1 being asleep to typing was very minimal. So minimal that I hardly noticed it at all.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Built-In Profiles for macOS and Windows Work Fantastic
 
  A lot of wireless mechanical keyboards on the market are geared toward gamers, which means that, while they’ll function with macOS, certain keys don’t line up or work quite right. Satechi addresses this by remapping the keyboard (and including extra keycaps) that are tailored to macOS for those Apple users out there. Switching the OS profile is as fast as switching the pairing profile and shouldn’t take any time at all.
 
  Once you’re into either the Windows or macOS profile, the keyboard will work just like you’d expect any native keyboard to work on that operating system, making it a seamless transition all around. Even the screenshot key works perfectly on both operating systems, which is something that’s not always the case with wireless keyboards on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Low-Profile Brown Switches Feel Nice
 
  When it comes to keyboards, many people focus on the feel and customizability. The SM1 doesn't bring a lot of customization to the table, outside of the operating system profiles and a few lighting patterns. So, if you're looking for something you can personalize, this isn't it. The keys have to be remapped through third-party software or your native operating system and there's no software programming of the keyboard at all. While some might see this as a drawback, I've had lots of issues with different keyboard software over the years, and having something that just works every time and can't break because the software stops working is nice.
 
  The feel of the Satechi SM1 to type on is solid. While I'm not typically a fan of brown-style switches, as I prefer the louder click of a blue switch, the SM1 was still very satisfying to use. The brown switches provide a tactile, clicky experience (that's not too loud) and even with the lower profile, they still felt great. The keyboard on the whole does sound a tad bit hollow, but that's the only "downside" here. The key caps feel nice, the spacing is good, and you'll find that the overall design is well thought out. The casing is made from milled aluminum, there are three levels of height and tilt adjustment, and the 75% key layout is easy to type on as well.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Satechi SM1 Slim Mechanical Backlit Bluetooth Keyboard?
 
 ![The Satechi SM1 comes with a USB-C cable, bluetooth dongle, and spare keys for Windows users](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53489230596_f1a99a6e04_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Satechi SM1 Slim Mechanical Backlit Bluetooth Keyboard](http://www.amazon.com/Satechi-Mechanical-Keyboard-Bluetooth-Wireless/dp/B0CV3G1X4P?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002206&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsatechi-sm1-mechanical-keyboard-review%2F&asc%5Fcampaign=Authority) has two main markets: macOS users and multi-OS users. Those with Windows computers already have a slew of keyboards to choose from, but if you’re like me and use both macOS and Windows, it’s harder to find a keyboard that _properly_ works with both operating systems. That’s exactly what the SM1 does. The switches feel great, there’s ample battery life, switching profiles is extremely easy, and you’ll love how portable the keyboard is.
@@ -133,6 +149,9 @@ Jerome Thomas / How-To Geek
 
 ![Satechi-SM1-Wireless-Mechanical-Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/satechi-sm1-wireless-mechanical-keyboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Satechi SM1 Slim Mechanical Bluetooth Wireless Keyboard
@@ -157,3 +176,48 @@ Satechi's SM1 Slim Mechanical Backlit Bluetooth Keyboard delivers up to two mont
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebooks-premier-playlist-best-of-the-music-videos/"><u>[New] In 2024, Facebook's Premier Playlist  Best of the Music Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nfluencer-collaborations-impacting-video-view-counts-for-2024/"><u>[New] Influencer Collaborations Impacting Video View Counts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-laugh-loom-meme-crafter/"><u>[New] Laugh Loom  Meme Crafter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laughmaker-begin-your-content-creation-journey/"><u>[New] LaughMaker  Begin Your Content Creation Journey</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-learn-to-fast-forward-faster-in-snapchat-simple-and-quick/"><u>[New] Learn to Fast-Forward Faster in Snapchat, Simple & Quick</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-bandicam-vs-camtasia-a-comparative-review/"><u>[Updated] 2024 Approved  Bandicam Vs. Camtasia  A Comparative Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-video-and-sound-capture-apps-for-artistic-visionaries/"><u>[Updated] Best Video & Sound Capture Apps for Artistic Visionaries</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-seamless-selection-the-finest-10-online-vimeo-file-harvesters/"><u>[Updated] In 2024, Seamless Selection  The Finest 10 Online Vimeo File Harvesters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google-for-2024/"><u>[Updated] Perfect Planning  How to Schedule Your Online Team's Virtual Gatherings (Google) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-guide-to-selecting-peak-performance-lipo-tech/"><u>2024 Approved  A Guide to Selecting Peak-Performance LiPo Tech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-finding-the-best-gaming-keys-at-unbeatable-prices-less-than-100/"><u>2024 Approved  Finding the Best Gaming Keys at Unbeatable Prices Less than $100</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-voice-changes-without-cost-explore-these-options/"><u>2024 Approved  Masterful Voice Changes Without Cost - Explore These Options</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1724766725735-dvd/"><u>専門家級アダルトDVDダビング方法採用！公開される未知のコピー手法大解剖</u></a></li>
+<li><a href="https://discover-community.techidaily.com/aacs-aacs/"><u>AACSキー使用法集 | ブルーレイディスク再生解放技術AACSに関する概要</u></a></li>
+<li><a href="https://discover-community.techidaily.com/access-new-features-download-updated-windows-videoproc-ai/"><u>Access New Features: Download Updated Windows VideoProc AI</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-childrens-and-family-friendly-christmas-animation-top-10-films/"><u>Best Children's and Family-Friendly Christmas Animation: Top 10 Films</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-automatic-restarts-on-windows-11-devices/"><u>Conquering Automatic Restarts on WIndows 11 Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cracking-the-code-to-your-vehicles-inbuilt-sound-system-access-codes/"><u>Cracking the Code to Your Vehicle's Inbuilt Sound System Access Codes</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-ultimate-5-substitutes-for-makemkv-on-windows-and-macos-convert-your-dvds-into-perfectly-rendered-mkv-files/"><u>Discover the Ultimate 5 Substitutes for MakeMKV on Windows & macOS: Convert Your DVDs Into Perfectly Rendered MKV Files</u></a></li>
+<li><a href="https://discover-community.techidaily.com/download-gratis-top-videoconverter-fur-mac-betriebssystem-kostenloser-zugang/"><u>Download Gratis: Top Videoconverter Für Mac-Betriebssystem - Kostenloser Zugang</u></a></li>
+<li><a href="https://discover-community.techidaily.com/exclusive-opportunity-grab-your-free-temporary-pass-to-macxdvd-dvd-tool/"><u>Exclusive Opportunity: Grab Your Free, Temporary Pass to MacXDVD DVD Tool!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fast-tracking-vimeo-video-uploads-expert-tips-on-optimizing-size-through-smart-compression-strategies/"><u>Fast Tracking Vimeo Video Uploads: Expert Tips on Optimizing Size Through Smart Compression Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-steps-to-introduce-automated-bots-in-your-discord-community/"><u>Guide: Steps to Introduce Automated Bots in Your Discord Community</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/how-to-send-or-add-a-pdf-file-to-your-iphone-a-step-by-step-guide/"><u>How to Send or Add a PDF File to Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>In 2024, Becoming a Broadcast Pro  Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone X</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-facetune-an-authoritative-review-for-improved-images/"><u>In 2024, Inside Facetune  An Authoritative Review for Improved Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-quality-youtubes-best-video-improvement-strategies/"><u>In 2024, Streamlining Quality  YouTube's Best Video Improvement Strategies</u></a></li>
+<li><a href="https://discover-community.techidaily.com/indispensable-iphone-app-selections-the-ultimate-list-of-top-11-picks/"><u>Indispensable iPhone App Selections: The Ultimate List of Top 11 Picks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/instant-thumbnail-transformation-personalized-youtube-shorts-in-a-flash-for-2024/"><u>Instant Thumbnail Transformation  Personalized YouTube Shorts in a Flash for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/macx-dvd-ripper-pro-dvdisodvd/"><u>MacX DVD Ripper Pro: DVDとISO画像をコンパクト化後、高品質DVDへ変換ガイド！</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mindful-chatting-securely-using-ai-for-counseling/"><u>Mindful Chatting: Securely Using AI for Counseling</u></a></li>
+<li><a href="https://discover-community.techidaily.com/optimizing-batch-transformation-from-avi-to-mp3-strategies-for-enhanced-audio-clarity/"><u>Optimizing Batch Transformation From AVI to MP3: Strategies for Enhanced Audio Clarity</u></a></li>
+<li><a href="https://discover-community.techidaily.com/speedy-mp4-upload-on-youtube-a-step-by-step-guide-with-no-hiccups/"><u>Speedy MP4 Upload on YouTube: A Step-by-Step Guide with No Hiccups</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-converting-wma-audio-tracks-to-mp3-format-using-a-mac-for-hassle-free-playbacks/"><u>Step-by-Step Tutorial: Converting WMA Audio Tracks to MP3 Format Using a Mac for Hassle-Free Playbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/teaming-up-in-tile-world-mc-multiplayer-strategies-for-friends/"><u>Teaming Up in Tile World: MC Multiplayer Strategies for Friends</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-ultimate-list-of-top-rated-free-and-legal-music-downloading-platforms/"><u>The Ultimate List of Top-Rated Free & Legal Music Downloading Platforms</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-kid-friendly-animated-movie-picks-a-parent-and-child-guide/"><u>Top Kid-Friendly Animated Movie Picks: A Parent & Child Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/troubleshooting-guide-fixing-issues-with-youtube-on-apple-tv/"><u>Troubleshooting Guide: Fixing Issues with YouTube on Apple TV</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-10-photos-not-your-cup-of-tea-try-these-8-alternatives/"><u>Updated In 2024, Windows 10 Photos Not Your Cup of Tea? Try These 8 Alternatives</u></a></li>
+</ul></div>

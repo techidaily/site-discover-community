@@ -1,7 +1,7 @@
 ---
 title: Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
-date: 2024-08-26 23:47:51
-updated: 2024-08-29 10:17:30
+date: 2024-08-30T20:37:34.578Z
+updated: 2024-08-31T20:37:34.578Z
 tags:
   - product-reviews
 categories:
@@ -90,6 +90,11 @@ Tyler Hayes / How-To Geek
 
  Over Wi-Fi, the unit supports Spotify Connect, Apple AirPlay, Chromecast, and Tidal Connect, which are in addition to its Bluetooth connection.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  The Sound Is Great Over Bluetooth, Wi-Fi, or a Wire
 
 ![close up JBL Authentics 300 volume light indicator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-jbl-authentics-300-volume-light-indicator.JPG) 
@@ -110,6 +115,9 @@ The light under the heart button is the volume indicator. Can you tell how loud 
 
  Simply put, listening to music on the JBL Authentics 300 was an absolute joy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  Amazon Alexa and Google Assistant Available, Together
 
 ![back of the JBL Authentics 300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-jbl-authentics-300.JPG) 
@@ -140,6 +148,9 @@ Tyler Hayes / How-To Geek
 
  The power cord was actually the biggest power problem, for me. This type of AC power cord is clunky. This speaker should really charge via USB-C instead. Wiggling the cord into the back of the speaker and then needing to pull it hard to remove was no good. It's another indication this unit was primarily designed for portability around the house.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  JBL One App Is a Start, but It Needs to Improve
 
 Close 
@@ -152,6 +163,9 @@ Close
 
  I liked using the JBL One app. It was neat that it showed how many hours I had listened to music. Unfortunately, it was lackluster in a bunch of ways, too. The battery level didn’t update for me in real-time. Often, I would have to quit the app and re-launch it for it to display the current battery level. Also, the battery level only displayed 10-percent increments—what’s up with that? That means you'll see a 40% battery level, for example, until suddenly it drops to 30%. That can be jarring and cause issues with how and when you plan to charge the unit.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Authentics 300 Price and Availability
 
  The JBL Authentics 300 is the middle speaker in the Authentics lineup and retails for $449.99\. The [Authentics 200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjbl-authentics-200-smart-home-speaker-black%2F6554781.p%3FskuId%3D6554781) starts at $349.99, and the [Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) comes in at $699.99\. The 300 is the only speaker of the three with a built-in battery.
@@ -160,6 +174,9 @@ Close
 
 ![JBL Authentics 300 inside on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-inside-on-a-table.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The story of the [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) speaker is one of a lot of little misses that are thankfully overshadowed by a few huge wins. Most importantly, it looks and sounds amazing—key for a speaker. The less-than-precise knob indicators, the mediocre battery life, and the poor app functions weren't great, but they also didn't stop the speaker from doing what it’s good at.
@@ -174,6 +191,9 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 #####  JBL Authentics 300
 
 8/ 10 
@@ -228,3 +248,35 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-googles-portal-for-efficient-podcast-submission/"><u>[New] Google's Portal for Efficient Podcast Submission</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-your-windows-10-experience-using-zoom-effectively/"><u>[Updated] Optimizing Your Windows 10 Experience  Using Zoom Effectively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-turning-fans-into-followers-friends-and-profits/"><u>[Updated] Turning Fans Into Followers, Friends, and Profits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-demystified-in-30-minutes/"><u>[Updated] YouTube Shorts Demystified in 30 Minutes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-techniques-for-accessing-and-saving-vimeo-videos/"><u>2024 Approved  Efficient Techniques for Accessing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1724766725735-dvd/"><u>専門家級アダルトDVDダビング方法採用！公開される未知のコピー手法大解剖</u></a></li>
+<li><a href="https://discover-community.techidaily.com/aacs-aacs/"><u>AACSキー使用法集 | ブルーレイディスク再生解放技術AACSに関する概要</u></a></li>
+<li><a href="https://discover-community.techidaily.com/access-new-features-download-updated-windows-videoproc-ai/"><u>Access New Features: Download Updated Windows VideoProc AI</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-childrens-and-family-friendly-christmas-animation-top-10-films/"><u>Best Children's and Family-Friendly Christmas Animation: Top 10 Films</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-2020-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE (2020) Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-unspecified-obs-recording-glitches/"><u>Decoding and Correcting Unspecified OBS Recording Glitches</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-ultimate-5-substitutes-for-makemkv-on-windows-and-macos-convert-your-dvds-into-perfectly-rendered-mkv-files/"><u>Discover the Ultimate 5 Substitutes for MakeMKV on Windows & macOS: Convert Your DVDs Into Perfectly Rendered MKV Files</u></a></li>
+<li><a href="https://discover-community.techidaily.com/download-gratis-top-videoconverter-fur-mac-betriebssystem-kostenloser-zugang/"><u>Download Gratis: Top Videoconverter Für Mac-Betriebssystem - Kostenloser Zugang</u></a></li>
+<li><a href="https://discover-community.techidaily.com/exclusive-opportunity-grab-your-free-temporary-pass-to-macxdvd-dvd-tool/"><u>Exclusive Opportunity: Grab Your Free, Temporary Pass to MacXDVD DVD Tool!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fast-tracking-vimeo-video-uploads-expert-tips-on-optimizing-size-through-smart-compression-strategies/"><u>Fast Tracking Vimeo Video Uploads: Expert Tips on Optimizing Size Through Smart Compression Strategies</u></a></li>
+<li><a href="https://discover-community.techidaily.com/how-to-send-or-add-a-pdf-file-to-your-iphone-a-step-by-step-guide/"><u>How to Send or Add a PDF File to Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-note-12t-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi Note 12T Pro Through Google Earth?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ideal-titles-and-sizes-maximizing-click-through-rates/"><u>In 2024, Ideal Titles & Sizes  Maximizing Click Through Rates</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>In 2024, Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://discover-community.techidaily.com/indispensable-iphone-app-selections-the-ultimate-list-of-top-11-picks/"><u>Indispensable iPhone App Selections: The Ultimate List of Top 11 Picks</u></a></li>
+<li><a href="https://discover-community.techidaily.com/macx-dvd-ripper-pro-dvdisodvd/"><u>MacX DVD Ripper Pro: DVDとISO画像をコンパクト化後、高品質DVDへ変換ガイド！</u></a></li>
+<li><a href="https://discover-community.techidaily.com/optimizing-batch-transformation-from-avi-to-mp3-strategies-for-enhanced-audio-clarity/"><u>Optimizing Batch Transformation From AVI to MP3: Strategies for Enhanced Audio Clarity</u></a></li>
+<li><a href="https://discover-community.techidaily.com/speedy-mp4-upload-on-youtube-a-step-by-step-guide-with-no-hiccups/"><u>Speedy MP4 Upload on YouTube: A Step-by-Step Guide with No Hiccups</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-converting-wma-audio-tracks-to-mp3-format-using-a-mac-for-hassle-free-playbacks/"><u>Step-by-Step Tutorial: Converting WMA Audio Tracks to MP3 Format Using a Mac for Hassle-Free Playbacks</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-ultimate-list-of-top-rated-free-and-legal-music-downloading-platforms/"><u>The Ultimate List of Top-Rated Free & Legal Music Downloading Platforms</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-kid-friendly-animated-movie-picks-a-parent-and-child-guide/"><u>Top Kid-Friendly Animated Movie Picks: A Parent & Child Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/troubleshooting-guide-fixing-issues-with-youtube-on-apple-tv/"><u>Troubleshooting Guide: Fixing Issues with YouTube on Apple TV</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
+</ul></div>

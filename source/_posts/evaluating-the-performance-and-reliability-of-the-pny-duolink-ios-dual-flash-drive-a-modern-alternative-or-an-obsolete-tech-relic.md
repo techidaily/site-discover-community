@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Performance and Reliability of the PNY DuoLink iOS Dual Flash Drive: A Modern Alternative or an Obsolete Tech Relic?"
-date: 2024-08-28 18:23:55
-updated: 2024-08-29 11:55:35
+date: 2024-08-30T20:37:38.180Z
+updated: 2024-08-31T20:37:38.180Z
 tags:
   - product-reviews
 categories:
@@ -59,6 +59,9 @@ The PNY DUO LINK iOS USB 3.2 Dual Flash Drive bridges the gap between mobile and
 
 [See at PNY](https://www.pny.com/duo-link-ios-usb-3-2-dual-flash-drive) [See at Amazon](https://www.amazon.com/PNY-128GB-Link-Flash-Drive/dp/B0C795JGGM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2000124&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fpny-duo-link-ios-dual-flash-drive-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  An Outdated Design That Didn’t Have to Be
 
 ![PNY Duo Link iOS showing its Lightning and USB-A connectors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53132444988_f90ebf4208_o.jpg) 
@@ -79,10 +82,17 @@ Joe Robinson / How-To Geek
 
  Unfortunately, that praise is short-lived too. When I went to stick the Lightning connector into my iPhone, the end was too wide to use with my phone’s Nomad case. (It might work with some iPhone cases, but be prepared for it not to.) The little clear plastic cap covering the Lightning connector will almost certainly be lost in the first week, too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ##  PNY Duo Link 4 iPhone App
 
 ![PNY Duo Link iOS stuck into an iPhone with the mobile app displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53132447133_4969b43f07_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  PNY’s Duo Link 4 app for [iPhone and iPad](https://apps.apple.com/us/app/duo-link-4/id1103672387) is available for free, but it wasn’t great to use. The mobile app did not look like much care or thought had been put into its layout, aesthetic, or functionality.
@@ -99,12 +109,18 @@ Close
 
  The drive itself supports transfer speeds up to USB 3.2 Gen 1, meaning up to 5Gbps with compatible devices. That’s certainly not the fastest transfer rate possible but with most iPhones probably containing around 128GB of storage or less, it would be manageable. I moved videos and pictures around from my phone to a computer, via a USB-A adapter, and back again multiple times with success. The drive functioned as advertised.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The PNY Duo Link iOS Dual flash drive is available now and starts at $24.99 for 64GB of storage space.
 
  For those who only need a USB-C port, the Duo Link Type-C Dual flash drive starts at $9.99 for 64GB of storage and only costs [$22.99 for 256GB](https://www.pny.com/duo-link-usb-3-2-type-c-dual-flash-drive).
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the PNY Duo Link iOS Dual Flash Drive?
 
 ![PNY Duo Link iOS showing the Lightning connector covered by a plastic cap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53132374845_75c1c39f6c_o.jpg) 
@@ -117,6 +133,9 @@ Joe Robinson / How-To Geek
 
 ![PNY-USB-Flash-Drive-OTG-DUO-Link-iOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/pny-usb-flash-drive-otg-duo-link-ios-3-2-lightning-type-a-op6-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 #####  PNY Duo Link iOS Dual Flash Drive
 
 5/ 10 
@@ -139,3 +158,34 @@ The PNY DUO LINK iOS USB 3.2 Dual Flash Drive bridges the gap between mobile and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[Updated] In 2024, Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-20-anime-openers-soundscape/"><u>[Updated] Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>2024 Approved  From YouTube to High-Quality MPEGs  The Essential Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1724766725735-dvd/"><u>専門家級アダルトDVDダビング方法採用！公開される未知のコピー手法大解剖</u></a></li>
+<li><a href="https://discover-community.techidaily.com/aacs-aacs/"><u>AACSキー使用法集 | ブルーレイディスク再生解放技術AACSに関する概要</u></a></li>
+<li><a href="https://discover-community.techidaily.com/access-new-features-download-updated-windows-videoproc-ai/"><u>Access New Features: Download Updated Windows VideoProc AI</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-childrens-and-family-friendly-christmas-animation-top-10-films/"><u>Best Children's and Family-Friendly Christmas Animation: Top 10 Films</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-ultimate-5-substitutes-for-makemkv-on-windows-and-macos-convert-your-dvds-into-perfectly-rendered-mkv-files/"><u>Discover the Ultimate 5 Substitutes for MakeMKV on Windows & macOS: Convert Your DVDs Into Perfectly Rendered MKV Files</u></a></li>
+<li><a href="https://discover-community.techidaily.com/download-gratis-top-videoconverter-fur-mac-betriebssystem-kostenloser-zugang/"><u>Download Gratis: Top Videoconverter Für Mac-Betriebssystem - Kostenloser Zugang</u></a></li>
+<li><a href="https://discover-community.techidaily.com/exclusive-opportunity-grab-your-free-temporary-pass-to-macxdvd-dvd-tool/"><u>Exclusive Opportunity: Grab Your Free, Temporary Pass to MacXDVD DVD Tool!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-metas-artificial-intelligence-insights-and-innovations/"><u>Exploring the World of Meta's Artificial Intelligence: Insights and Innovations</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fast-tracking-vimeo-video-uploads-expert-tips-on-optimizing-size-through-smart-compression-strategies/"><u>Fast Tracking Vimeo Video Uploads: Expert Tips on Optimizing Size Through Smart Compression Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/how-to-send-or-add-a-pdf-file-to-your-iphone-a-step-by-step-guide/"><u>How to Send or Add a PDF File to Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/indispensable-iphone-app-selections-the-ultimate-list-of-top-11-picks/"><u>Indispensable iPhone App Selections: The Ultimate List of Top 11 Picks</u></a></li>
+<li><a href="https://discover-community.techidaily.com/macx-dvd-ripper-pro-dvdisodvd/"><u>MacX DVD Ripper Pro: DVDとISO画像をコンパクト化後、高品質DVDへ変換ガイド！</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-brother-support-get-your-hl-l2340dw-printer-drivers-on-windows-now/"><u>Official Brother Support: Get Your HL-L2340DW Printer Drivers on Windows Now</u></a></li>
+<li><a href="https://discover-community.techidaily.com/optimizing-batch-transformation-from-avi-to-mp3-strategies-for-enhanced-audio-clarity/"><u>Optimizing Batch Transformation From AVI to MP3: Strategies for Enhanced Audio Clarity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/propel-your-presence-on-facebook-mastering-the-art-of-going-live/"><u>Propel Your Presence on Facebook  Mastering the Art of Going Live</u></a></li>
+<li><a href="https://discover-community.techidaily.com/speedy-mp4-upload-on-youtube-a-step-by-step-guide-with-no-hiccups/"><u>Speedy MP4 Upload on YouTube: A Step-by-Step Guide with No Hiccups</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-converting-wma-audio-tracks-to-mp3-format-using-a-mac-for-hassle-free-playbacks/"><u>Step-by-Step Tutorial: Converting WMA Audio Tracks to MP3 Format Using a Mac for Hassle-Free Playbacks</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-ultimate-list-of-top-rated-free-and-legal-music-downloading-platforms/"><u>The Ultimate List of Top-Rated Free & Legal Music Downloading Platforms</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-kid-friendly-animated-movie-picks-a-parent-and-child-guide/"><u>Top Kid-Friendly Animated Movie Picks: A Parent & Child Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/troubleshooting-guide-fixing-issues-with-youtube-on-apple-tv/"><u>Troubleshooting Guide: Fixing Issues with YouTube on Apple TV</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-top-video-collage-apps-for-ios-devices-for-2024/"><u>Updated Unleash Your Creativity Top Video Collage Apps for iOS Devices for 2024</u></a></li>
+</ul></div>

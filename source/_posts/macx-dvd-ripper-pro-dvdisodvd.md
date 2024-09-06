@@ -1,19 +1,37 @@
 ---
 title: "MacX DVD Ripper Pro: DVDとISO画像をコンパクト化後、高品質DVDへ変換ガイド！"
-date: 2024-08-30T20:37:48.156Z
-updated: 2024-08-31T20:37:48.156Z
+date: 2024-09-05T10:37:13.872Z
+updated: 2024-09-06T10:37:13.872Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf3958002401b8a3af1db05343b435b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## MacX DVD Ripper Pro: DVDとISO画像をコンパクト化後、高品質DVDへ変換ガイド！
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \>MacX DVD Ripper Proの圧縮方法
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## MacX DVD Ripper ProでDVDやISOイメージを圧縮してDVDに焼く方法のご案内！ 
 
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  MacX DVD Ripper ProでDVDを圧縮したいか
 
 「MacX DVD Ripper Proで読み込み、ディスクユーティリティでDVDへ書き込もうとすると『セットしたディスクには十分な空き領域がありません。』と言われ、9割のDVDがコピーすることができません。」
@@ -22,6 +40,18 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### DVD→ISO編：MacX DVD Ripper Proの圧縮方法（一）
 
 MacX DVD Ripper Proを利用してどうやってDVDを圧縮するか。一番やりやすい方法は、DVDメニュー、特典映像、不要な部分ををカットして、好きなシーンだけを抜き出したりすることにより、DVDファイルサイズを小さくするのである。具体的な操作手順は以下の通り：
@@ -29,7 +59,10 @@ MacX DVD Ripper Proを利用してどうやってDVDを圧縮するか。一番�
 ![](https://www.macxdvd.com/blog/img/smart-macx-dvd-ripper-pro-compress-dvd01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step1：**MacX DVD Ripper Proを起動後、左上側にある【ディスク】を押す。そして、ソースDVDのあるドライブを選択して、右の画像のように標記された「自動検出」にチェックを入れて、「OK」をクリックすればOK。
 
@@ -41,12 +74,21 @@ MacX DVD Ripper Proを利用してどうやってDVDを圧縮するか。一番�
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### DVD→ISO編：MacX DVD Ripper Proの圧縮方法（二）
 
 ![MacX DVD Ripper Pro 5分](https://www.macxdvd.com/blog/img/smart-macx-dvd-ripper-pro-compress-dvd02.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 不要な部分をカットする以外、DVDファイルのパラメータ（解像度・ビットレート・フレームレット等）をカスタマイズして、ファイルサイズを圧縮することも可能。だが、この方法だと画質が落ちる恐れもある。↓↓↓の内容はDVDファイルのサイズを圧縮しながら、最大限に画質を保つためのアドバイスを紹介する。
 
@@ -57,21 +99,18 @@ MacX DVD Ripper Proを利用してどうやってDVDを圧縮するか。一番�
 [![MacX DVD Ripper Proダウンロード](https://www.macxdvd.com/blog/new-fourteen/wpro.png)](https://tools.techidaily.com/macxdvd/products/)[![MacX DVD Ripper Proダウンロード](https://www.macxdvd.com/blog/new-fourteen/mpro.png)](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DVD→動画形式編：MacX DVD Ripper Proの圧縮方法（三）
 
   
 ![MacX DVD Ripper Pro 5分](https://www.macxdvd.com/blog/img/smart-macx-dvd-ripper-pro-compress-dvd0613.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 一般的なISOイメージファイルのサイズが少なくても4．3～4．7GBぐらいである。できるだけDVDファイルサイズを小さくするには、MP4、 MOV等の動画形式に変換したほうが賢い。例えば、MP4は圧縮率が高い割に見た目の画質も良い。具体的な操作手順はMacX DVD Ripper Proの圧縮方法（一）と大体同じ。ただ、
 
 **出力形式の選択する画面では、「Macの通常映像」-「MP4動画（MPEG4）」-「MP4動画（H264）」-「完了」の順でクリックするとご注意をください。**
@@ -83,10 +122,6 @@ MacX DVD Ripper Proを利用してどうやってDVDを圧縮するか。一番�
   
 ![MacX DVD Ripper Pro 5分](https://www.macxdvd.com/blog/img/smart-macx-dvd-ripper-pro-compress-dvd05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 [ISOファイルを圧縮](https://tools.techidaily.com/macxdvd/products/)してそのままで出力したい場合、MacX DVD Ripper Proのかわりに、DVD Shrinkのほうがもっと初心者に向いているかもしれない。以下はDVD Shrinkを利用してISOファイルを圧縮方法を解説する。まず、ネットからDVD Shrink3.2をWindowsコンピュータにダウンロードをインストールしてください。
 
 **Step1：**DVD Shrinkを立ち上げると、「ファイルを開く」をクリックして、圧縮作業を行いたいISOファイルを選択する。そして、DVD Shrinkは自動的にファイルを解析し始める。解析の終わるまで、長くて30秒～1分くらいかかる。（それ以上長い時間かかる場合、DVD Shrinkは正しく動作するかと確認したほうがいい）。
@@ -106,7 +141,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://www.macxdvd.com/blog/../seoimage/dvd-ripperu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### MacX DVD Ripper Pro
 
@@ -114,14 +158,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/drp-zld-0412-04.jpg) 
@@ -134,6 +172,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://www.macxdvd.com/blog/img/drp-zld-0412-05.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [人気DVDリッピングソフトMacX DVD Ripper Pro購入方法のご案内！](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/10-11-zql.jpg) 
@@ -142,6 +186,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[MacでツタヤやゲオなどのレンタルDVDをコピー](https://tools.techidaily.com/macxdvd/products/)** 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 【初心者むけ】MacでDVDをコピーするかと詳しく解説する！
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[最強のMac DVDリッピングソフトは？](https://tools.techidaily.com/macxdvd/products/)** 
@@ -154,9 +210,6 @@ DVDをパソコンに取り込む方法をご紹介。
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[超簡単TSUTAYAやゲオなどのレンタルDVDをダビング方法！](https://tools.techidaily.com/macxdvd/products/)** 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Mac＆Windows向け、レンタルDVDをダビングする方法ご紹介。
 
 

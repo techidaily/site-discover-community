@@ -1,7 +1,7 @@
 ---
 title: Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
-date: 2024-08-30T20:37:34.578Z
-updated: 2024-08-31T20:37:34.578Z
+date: 2024-09-05T10:37:13.660Z
+updated: 2024-09-06T10:37:13.660Z
 tags:
   - product-reviews
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/front-view-of-jbl-authentics-300.JPG
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
 
 ### Key Takeaways
@@ -21,6 +27,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  JBL Authentics 300
@@ -78,6 +90,12 @@ Expand
 
 ![JBL Authentics 300 outside with handle up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-outside-with-handle-up.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I’m not sure if a leather-clad speaker is a good idea for portability, but it looks brilliant. The gold accents and puffy grill really set it apart when comparing multiple speakers side-by-side. The speaker seemed to be put together well, too.
@@ -91,9 +109,10 @@ Tyler Hayes / How-To Geek
  Over Wi-Fi, the unit supports Spotify Connect, Apple AirPlay, Chromecast, and Tidal Connect, which are in addition to its Bluetooth connection.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Sound Is Great Over Bluetooth, Wi-Fi, or a Wire
 
@@ -115,13 +134,16 @@ The light under the heart button is the volume indicator. Can you tell how loud 
 
  Simply put, listening to music on the JBL Authentics 300 was an absolute joy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Amazon Alexa and Google Assistant Available, Together
 
 ![back of the JBL Authentics 300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-jbl-authentics-300.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 The switch on the back, at the top, is for turning the listening microphones on and off.
@@ -138,6 +160,12 @@ The switch on the back, at the top, is for turning the listening microphones on 
 
 ![close up of the top of the JBL Authentics 300 showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-of-the-top-of-the-jbl-authentics-300-showing-buttons.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  JBL advertises up to eight hours of battery life, depending on the volume level. That means it comes in way under the Sonos Move 2, which claims 24 hours of battery life.
@@ -149,7 +177,10 @@ Tyler Hayes / How-To Geek
  The power cord was actually the biggest power problem, for me. This type of AC power cord is clunky. This speaker should really charge via USB-C instead. Wiggling the cord into the back of the speaker and then needing to pull it hard to remove was no good. It's another indication this unit was primarily designed for portability around the house.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  JBL One App Is a Start, but It Needs to Improve
 
@@ -163,9 +194,6 @@ Close
 
  I liked using the JBL One app. It was neat that it showed how many hours I had listened to music. Unfortunately, it was lackluster in a bunch of ways, too. The battery level didn’t update for me in real-time. Often, I would have to quit the app and re-launch it for it to display the current battery level. Also, the battery level only displayed 10-percent increments—what’s up with that? That means you'll see a 40% battery level, for example, until suddenly it drops to 30%. That can be jarring and cause issues with how and when you plan to charge the unit.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Authentics 300 Price and Availability
 
  The JBL Authentics 300 is the middle speaker in the Authentics lineup and retails for $449.99\. The [Authentics 200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjbl-authentics-200-smart-home-speaker-black%2F6554781.p%3FskuId%3D6554781) starts at $349.99, and the [Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) comes in at $699.99\. The 300 is the only speaker of the three with a built-in battery.
@@ -174,9 +202,6 @@ Close
 
 ![JBL Authentics 300 inside on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-inside-on-a-table.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The story of the [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) speaker is one of a lot of little misses that are thankfully overshadowed by a few huge wins. Most importantly, it looks and sounds amazing—key for a speaker. The less-than-precise knob indicators, the mediocre battery life, and the poor app functions weren't great, but they also didn't stop the speaker from doing what it’s good at.
@@ -189,10 +214,19 @@ Tyler Hayes / How-To Geek
 
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  JBL Authentics 300
 

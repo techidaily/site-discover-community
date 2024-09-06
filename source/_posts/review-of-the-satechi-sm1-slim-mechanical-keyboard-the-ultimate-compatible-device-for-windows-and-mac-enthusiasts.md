@@ -1,7 +1,7 @@
 ---
 title: "Review of the Satechi SM1 Slim Mechanical Keyboard: The Ultimate Compatible Device for Windows & Mac Enthusiasts"
-date: 2024-08-30T20:37:41.833Z
-updated: 2024-08-31T20:37:41.833Z
+date: 2024-09-05T10:37:13.770Z
+updated: 2024-09-06T10:37:13.770Z
 tags:
   - product-reviews
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc88406680edc99866453f0d22.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Review of the Satechi SM1 Slim Mechanical Keyboard: The Ultimate Compatible Device for Windows & Mac Enthusiasts
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Satechi SM1 is an affordable mechanical keyboard at $100 and offers a quality, feature-packed experience.
@@ -93,6 +105,12 @@ Jerome Thomas / How-To Geek
 
  Now, when you click the print screen button, you'll find that the Snipping Tool comes up which lets you choose whether to capture a whole screen image, window, or more precise capture. So, instead of having the old print screen button, there's now an icon that matches the Snipping Tool logo. It also works the same way on macOS, meaning you can just clip a smaller portion of your screen instead of copying the entire thing to the clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Multi-Device Pairing Could Use Some Work Though
 
  Switching device profiles is super fast and easy. It worked flawlessly every time. Hold the “function” key and click the profile you want to use. The catch here is that the keyboard doesn’t associate an operating system profile with a pairing profile.
@@ -100,8 +118,10 @@ Jerome Thomas / How-To Geek
  For my testing, I had Bluetooth 1 paired to my Windows desktop, while Bluetooth 2 was paired to my MacBook Pro. Whenever I would switch between the two, I would also have to switch what mode the keyboard was in. This takes just an extra click, but honestly, I don’t think that it would have been that hard to store the last chosen OS profile within the pairing profile on the keyboard. It’s possible that Satechi could push out a firmware update that allowed this, but I don’t really see that happening for a keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Satechi’s SM1 Wireless Keyboard Has Pretty Great Battery Life
 
@@ -113,33 +133,27 @@ Jerome Thomas / How-To Geek
 
  With the lighting turned off, you can get up to two months of use according to Satechi. However, once you turn the lights on (assuming full brightness), you’ll be looking at about 16 or so hours of usage before it’s time to plug in. With how fast the keyboard puts itself to sleep, those 16 hours could easily last you all week without having to plug it in since it shuts down between typing sessions relatively quickly. And, while I typically hate keyboards going to sleep because they always take forever to wake back up and pair to start typing again, the lag between the Satechi SM1 being asleep to typing was very minimal. So minimal that I hardly noticed it at all.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Built-In Profiles for macOS and Windows Work Fantastic
 
  A lot of wireless mechanical keyboards on the market are geared toward gamers, which means that, while they’ll function with macOS, certain keys don’t line up or work quite right. Satechi addresses this by remapping the keyboard (and including extra keycaps) that are tailored to macOS for those Apple users out there. Switching the OS profile is as fast as switching the pairing profile and shouldn’t take any time at all.
 
  Once you’re into either the Windows or macOS profile, the keyboard will work just like you’d expect any native keyboard to work on that operating system, making it a seamless transition all around. Even the screenshot key works perfectly on both operating systems, which is something that’s not always the case with wireless keyboards on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Low-Profile Brown Switches Feel Nice
 
  When it comes to keyboards, many people focus on the feel and customizability. The SM1 doesn't bring a lot of customization to the table, outside of the operating system profiles and a few lighting patterns. So, if you're looking for something you can personalize, this isn't it. The keys have to be remapped through third-party software or your native operating system and there's no software programming of the keyboard at all. While some might see this as a drawback, I've had lots of issues with different keyboard software over the years, and having something that just works every time and can't break because the software stops working is nice.
 
  The feel of the Satechi SM1 to type on is solid. While I'm not typically a fan of brown-style switches, as I prefer the louder click of a blue switch, the SM1 was still very satisfying to use. The brown switches provide a tactile, clicky experience (that's not too loud) and even with the lower profile, they still felt great. The keyboard on the whole does sound a tad bit hollow, but that's the only "downside" here. The key caps feel nice, the spacing is good, and you'll find that the overall design is well thought out. The casing is made from milled aluminum, there are three levels of height and tilt adjustment, and the 75% key layout is easy to type on as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Satechi SM1 Slim Mechanical Backlit Bluetooth Keyboard?
 
 ![The Satechi SM1 comes with a USB-C cable, bluetooth dongle, and spare keys for Windows users](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53489230596_f1a99a6e04_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -150,10 +164,31 @@ Jerome Thomas / How-To Geek
 ![Satechi-SM1-Wireless-Mechanical-Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/satechi-sm1-wireless-mechanical-keyboard.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Satechi SM1 Slim Mechanical Bluetooth Wireless Keyboard
 
 8/ 10 

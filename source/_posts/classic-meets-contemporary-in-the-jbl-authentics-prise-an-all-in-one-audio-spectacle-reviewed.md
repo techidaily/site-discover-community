@@ -1,7 +1,7 @@
 ---
 title: Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
-date: 2024-09-05T10:37:13.660Z
-updated: 2024-09-06T10:37:13.660Z
+date: 2024-09-10T09:09:29.792Z
+updated: 2024-09-11T09:09:29.792Z
 tags:
   - product-reviews
 categories:
@@ -9,13 +9,21 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/front-view-of-jbl-authentics-300.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -27,13 +35,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  JBL Authentics 300
 
@@ -90,12 +112,6 @@ Expand
 
 ![JBL Authentics 300 outside with handle up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-outside-with-handle-up.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I’m not sure if a leather-clad speaker is a good idea for portability, but it looks brilliant. The gold accents and puffy grill really set it apart when comparing multiple speakers side-by-side. The speaker seemed to be put together well, too.
@@ -108,15 +124,23 @@ Tyler Hayes / How-To Geek
 
  Over Wi-Fi, the unit supports Spotify Connect, Apple AirPlay, Chromecast, and Tidal Connect, which are in addition to its Bluetooth connection.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Sound Is Great Over Bluetooth, Wi-Fi, or a Wire
 
 ![close up JBL Authentics 300 volume light indicator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-jbl-authentics-300-volume-light-indicator.JPG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tyler Hayes / How-To Geek
 
@@ -138,12 +162,26 @@ The light under the heart button is the volume indicator. Can you tell how loud 
 
 ![back of the JBL Authentics 300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-jbl-authentics-300.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
 The switch on the back, at the top, is for turning the listening microphones on and off.
@@ -156,16 +194,38 @@ The switch on the back, at the top, is for turning the listening microphones on 
 
  My biggest question is whether a lot of people use multiple assistants in their homes. Many may have a household with mixed devices, but is a single device with two, interchangeable assistants a huge draw? Now, if JBL can add Siri to the mix, that would be a great magic trick. Still, having the Google Assistant available on this speaker and not on the Sonos Move 2 may sway people towards JBL's option.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Battery Life Is Just Enough
 
 ![close up of the top of the JBL Authentics 300 showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-of-the-top-of-the-jbl-authentics-300-showing-buttons.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  JBL advertises up to eight hours of battery life, depending on the volume level. That means it comes in way under the Sonos Move 2, which claims 24 hours of battery life.
@@ -176,12 +236,6 @@ Tyler Hayes / How-To Geek
 
  The power cord was actually the biggest power problem, for me. This type of AC power cord is clunky. This speaker should really charge via USB-C instead. Wiggling the cord into the back of the speaker and then needing to pull it hard to remove was no good. It's another indication this unit was primarily designed for portability around the house.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  JBL One App Is a Start, but It Needs to Improve
 
 Close 
@@ -202,6 +256,20 @@ Close
 
 ![JBL Authentics 300 inside on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-inside-on-a-table.JPG) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  The story of the [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) speaker is one of a lot of little misses that are thankfully overshadowed by a few huge wins. Most importantly, it looks and sounds amazing—key for a speaker. The less-than-precise knob indicators, the mediocre battery life, and the poor app functions weren't great, but they also didn't stop the speaker from doing what it’s good at.
@@ -214,20 +282,36 @@ Tyler Hayes / How-To Geek
 
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 #####  JBL Authentics 300
 
 8/ 10 

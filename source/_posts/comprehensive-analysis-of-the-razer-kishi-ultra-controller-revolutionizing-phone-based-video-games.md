@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the Razer Kishi Ultra Controller - Revolutionizing Phone-Based Video Games
-date: 2024-09-05T10:37:13.679Z
-updated: 2024-09-06T10:37:13.679Z
+date: 2024-09-10T09:09:29.811Z
+updated: 2024-09-11T09:09:29.811Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Comprehensive Analysis of the Razer Kishi Ultra Controller - Revolutionizing Phone-Based Video Games
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -21,14 +35,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![razer kishi ultra thumbnail 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/razer-kishi-ultra-thumbnail-2.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 #####  Razer Kishi Ultra
 
 9/ 10 
@@ -48,12 +84,6 @@ The Razer Kishi Ultra takes the very best of console controller technology and b
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Razer Kishi Ultra retails for $149.99 and can be purchased at Razer's store, Amazon, and Best Buy. There are [limited edition versions](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004293&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fcampaigns%2Frazer-kishi-honkai-impact-3) in the works.
@@ -106,6 +136,26 @@ Expand
 
 ![The Razer Kishi Ultra with rubber pads and box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53736584008_7b2dd9461a_o.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Like most Razer products, the Kishi Ultra's aesthetic can only be described as 'gamer-y'. While the black controller seems unassuming, when you plug a device into it, the LED lights on the sides of the Kishi Ultra come on in all their rainbow glory. While I don't mind the lights and think they're a neat touch, others might find them distracting. Thankfully, you can adjust and turn them off in the Nexus app as needed.
@@ -120,22 +170,10 @@ Jerome Thomas / How-To Geek
 
  This is all good, but how does the Razer Kishi Ultra hold up to an extended game session?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Putting the Razer Kishi Ultra to the Test
 
 ![The Razer Kishi Ultra fully extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53736584013_9e703c5cee_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I find Razer's marketing of the Kishi Ultra to feature "Genshin Impact" very clever—that was the first game I wanted to test out. While it was a mobile game at first, it was a terrible game to play on the touchscreen, and playing it on PC or PS5 never interested me. But even a physical controller on a smartphone doesn't quite work for the game; the phone screen is too small to see what's happening in an action RPG.
@@ -144,28 +182,24 @@ Jerome Thomas / How-To Geek
 
  When playing "Genshin," I didn't notice any noticeable lag between button presses and the screen, as expected from a controller plugged directly into the device. I had no issues reaching buttons with my smaller hands, either. My main concern was with the weight of the controller and the iPad.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Heavyweight Portable Gaming
 
 ![53736584028_df1b5f0a29_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53736584028_df1b5f0a29_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  When you connect the iPad mini to the Razer Kishi Ultra, it's a bit awkward but manageable in terms of size. But in terms of weight, you have a 559-gram portable you're holding up (without an iPad case). For reference, the original Nintendo Switch model is 297 grams, and the Steam Deck is a hefty 669 grams, so the Kishi lands a bit on the heavier side for portables. Of course, the weight is lower if you're attaching a smartphone instead—the controller with my Pixel 7a is 459.5 grams—but if you're coming from a Switch, you'll notice the weight difference.
 
  So with this in mind, I was worried about wrist fatigue. When I first picked up my Steam Deck, I had a lot of trouble with my wrists getting tired after an hour or so of playing. Given the size of the Kishi Ultra, I was worried about the same here, but it ended up not being the case.
@@ -174,12 +208,20 @@ Jerome Thomas / How-To Geek
 
  But, the Kishi Ultra is a great travel companion. While it can't fold down like the regular Kishi, you can keep it connected to your device indefinitely with a USB-C passthrough charging port. It may be a bit awkward to pack and take with you, but if you're looking for a replacement for other portable consoles (and like the mobile game offerings), the Razer Kishi Ultra can be it.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Should you Buy the Razer Kishi Ultra?
 
 ![The Razer Kishi Ultra connected to a Pixel 7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53736814150_b226ef818c_o.jpg) 
@@ -193,6 +235,20 @@ Jerome Thomas / How-To Geek
 ![razer kishi ultra thumbnail 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/razer-kishi-ultra-thumbnail-2.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Razer Kishi Ultra
 

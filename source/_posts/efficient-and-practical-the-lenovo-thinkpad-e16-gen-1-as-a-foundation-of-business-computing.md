@@ -1,7 +1,7 @@
 ---
 title: "Efficient and Practical: The Lenovo ThinkPad E16 Gen 1 as a Foundation of Business Computing"
-date: 2024-09-05T10:37:13.701Z
-updated: 2024-09-06T10:37:13.701Z
+date: 2024-09-10T09:09:29.833Z
+updated: 2024-09-11T09:09:29.833Z
 tags:
   - product-reviews
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c944d538d367654e5b9adad2.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Efficient and Practical: The Lenovo ThinkPad E16 Gen 1 as a Foundation of Business Computing
 
 ### Key Takeaways
@@ -103,15 +117,29 @@ Expand
 
 [$909.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-thinkpad-e16-gen-1-16-touch-screen-laptop-intel-core-i5-with-16gb-memory-512gb-ssd-black%2F6549720.p%3FskuId%3D6549720) [See at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpade%2Fthinkpad-e16-%2816-inch-intel%29%2Flen101t0066) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Design: Mass with Class
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desk with its AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1-with-the-charger_53287490495_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sergio Rodriguez / How-To Geek
 
@@ -131,12 +159,20 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 closed on a desktop showing its left side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-closed-lenovo-thinkpad-e16-gen-1_53287396884_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  Thanks to the ThinkPad E16 Gen 1's larger body, there are plenty of full-size ports on the left and right of the laptop. On the left, there's USB-C 3.2 Gen 2 (power-in), Thunderbolt 4, USB-A 3.2 Gen 1, HDMI 2.1 TMDS, and a 3.5mm headphone/microphone combo. On the right, there's USB-A 2.0, Ethernet (RJ45), and a Kensington Security Slot.
@@ -153,18 +189,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 open a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1_53287026391_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  One of the reasons for the larger size and weight of the laptop is the generous 16-inch WUXGA (1920x1200) IPS anti-glare touchscreen with 300 nits of brightness. The default scale in Windows is set to 125%, allowing for large, easy-to-read text on such a large display at that resolution. Of course, setting the scale to 100% is still readable and provides even more usable real estate, allowing for more productive multitasking when docking windows to the left and right. This effectively creates two large portrait displays of roughly 6.8 x 10.8 inches, even when accounting for the standard Windows taskbar.
@@ -181,12 +205,20 @@ Sergio Rodriguez / How-To Geek
 
 Your browser does not support the video tag. 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Interfaces: Keyboard and Other Input
 
 ![Lenovo ThinkPad E16 Gen 1 - closeup of open laptop's left corner on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/intel-core-i5-and-intel-iris-xe-stickers-on-the-lenovo-thinkpad-e16-gen-1_53286136922_o.jpg) 
@@ -199,22 +231,38 @@ Sergio Rodriguez / How-To Geek
 
  One area where Lenovo can almost always be counted on to deliver is with its trackpad and iconic red rubber TrackPoint point stick. The trackpad is well-positioned slightly to the left center below the keyboard and is smooth and responsive. All of the usual two-finger gestures like zoom in or out work flawlessly. The three large mouse buttons both augment the ability to tap and click on the trackpad, as well as provide the necessary actions when favoring the use of the TrackPoint, which is found in its usual home in between the G, H, B, and N keys on the keyboard.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Software and Performance Tests
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desktop showing a close-up of its upper right side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-fingerprint-reader-on-the-lenovo-thinkpad-e16-gen-1_53287490545_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sergio Rodriguez / How-To Geek
 
  As is standard with a business-centric laptop, the ThinkPad E16 Gen 1 comes with Windows 11 Pro. There's not a lot of bloatware preinstalled outside of [McAfee](https://www.mcafee.com/en-us/antivirus.html) antivirus and some Lenovo standards like [AI Meeting Manager](https://apps.microsoft.com/detail/ai-meeting-manager/9NJ7W58DLL4N?hl=en-US&gl=US), [Lenovo Smart Appearance](https://apps.microsoft.com/detail/lenovo-smart-appearance/9NRLFDZ54PZB?hl=en-US&gl=US), and Lenovo Vantage. There's also the Lenovo Now app, which provides a portal to Lenovo Vantage, the device warranty, and various trial offers.
@@ -231,12 +279,20 @@ Sergio Rodriguez / How-To Geek
 
  The built-in 100/1000M RJ-45 Ethernet jack is a nice touch for maximum network performance when a wired connection is an option, but the Intel Wi-Fi 6 AX2011, 11ax 2x2 wireless connection is similarly effective. On my [eero Pro 6E](https://www.amazon.com/eero-reliable-gigabit-connect-Coverage/dp/B091G64GVK/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001163&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-thinkpad-e16-gen-1-review%2F&asc%5Fcampaign=Affiliate) Wi-Fi network that's on a gigabit connection, the ThinkPad E16 Gen 1 correctly identified the fastest connection, enabled WPA3 security, and consistently provided at least 450Mbps download speeds with sub-25 ms pings.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the Lenovo ThinkPad E16 Gen 1?
 
  There's a lot of competition at or around the $1,000 price point for laptops. The [ThinkPad E16 Gen 1](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-thinkpad-e16-gen-1-16-touch-screen-laptop-intel-core-i5-with-16gb-memory-512gb-ssd-black%2F6549720.p%3FskuId%3D6549720), doesn't do much to stand out in this crowded field. However, despite sporting something of a throwback design, Lenovo's laptop does provide some practical benefits, including a well-sized, stable keyboard and a large 16-inch touchscreen.
@@ -247,12 +303,26 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 promotional image of open laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/6549720cv3d.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Lenovo ThinkPad E16 Gen 1
 
 7/ 10 

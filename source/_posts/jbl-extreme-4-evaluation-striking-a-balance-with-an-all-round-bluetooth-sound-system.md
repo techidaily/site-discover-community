@@ -1,7 +1,7 @@
 ---
 title: "JBL Extreme 4 Evaluation: Striking a Balance with an All-Round Bluetooth Sound System"
-date: 2024-09-05T10:37:13.751Z
-updated: 2024-09-06T10:37:13.751Z
+date: 2024-09-10T09:09:29.884Z
+updated: 2024-09-11T09:09:29.884Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,26 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 ---
 
 ## JBL Extreme 4 Evaluation: Striking a Balance with an All-Round Bluetooth Sound System
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -20,6 +40,20 @@ thumbnail: https://thmb.techidaily.com/ccf5800f87dc975bfa3f97e17abaade8c733e4db5
 [JBL’s Xtreme 4](https://www.amazon.com/JBL-Xtreme-Waterproof-PartyBoost-Multi-Speaker/dp/B0CTP191Z3?dib=eyJ2IjoiMSJ9.WvkS5Mqtm%5FXSD5B3XvWxLtHr8vYs6zr-ThOhkD9Ws334aqySXtxdKmPfNG5LIhoDngE1yp5Cy8JJBGql%5FkJf9jt9DPsae-EG9FE0Y5xEjpEi190vnkO7VaPnu8CRatU4Amuzq%5FEgkis7oXafpewM-AMv6Nn498MbRtFpaiPmEYfxoiaV5T0eU94pt4X5e1SnUTtVeBtayNqRbvqASGMuf-vUCp6G5n5yKCALSQdtgdg.0WMu-s2KXlgjyNT9kPSkX739dM-mDYSwfwpzBh-iyc8&dib%5Ftag=se&keywords=jbl+xtreme+4&qid=1717031446&sr=8-2&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003417&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-xtreme-4-review%2F&asc%5Fcampaign=Authority) Bluetooth speaker is loud enough to jump-start a gathering, while still being portable enough to carry it around. It’s a fine speaker choice, but its updates over the previous model are small and hard to recommend that Xtreme 3 owners upgrade.
 
 ![JBL Xtreme 4 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/jbl-xtreme-4-tag.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  JBL Xtreme 4
 
@@ -39,12 +73,6 @@ Unleash the power of music with JBL Xtreme 4\. Experience unparalleled sound qua
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The JBL Xtreme 4 speaker retails for $379.99 and went on sale in early June. It comes in a few different color options.
@@ -85,28 +113,30 @@ Unleash the power of music with JBL Xtreme 4\. Experience unparalleled sound qua
 
 Expand 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Xtreme 4 Is Only Mildly Extreme
 
 ![JBL Xtreme 4 with accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/jbl-xtreme-4-with-accessories.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  I happened to test the Xtreme 4 speaker around the same time I was testing the [Bose SoundLink Max](https://desktop-recording.techidaily.com/updated-efficient-techniques-unveiled-mastering-screen-recordings-with-showmore-for-2024/). Both of the speakers are in the same class, retailing for $20 apart and close in size. But I much preferred the Bose speaker to JBL’s offering.
@@ -121,28 +151,24 @@ Jerome Thomas / How-To Geek
 
  While both speakers are close in size, the SoundLink Max is less bulbous. It feels sleeker and slimmer. It’s hard to quantify that specifically other than to say it made it easier to carry the Bose speaker with its cute rope handle along to the community pool, than the bigger Xtreme 4 with its long shoulder strap.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ports, Auracast, and the Features of It All
 
 ![JBL Xtreme 4 buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/jbl-xtreme-4-buttons.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Interestingly, while Bose included a 3.5mm audio jack, along with its UBS-C port, JBL removed its aux port from the Extreme 4\. While the previous Xtreme 3 model had both, the new speaker only features an exposed USB-C port.
@@ -161,15 +187,29 @@ Jerome Thomas / How-To Geek
 
  While JBL speakers like the Stage 320 can just pull the removable battery out with a string. The Xtreme 4 requires some effort by undoing some screws.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the JBL Xtreme 4?
 
 ![JBL Xtreme 4 with strap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/jbl-xtreme-4-with-strap.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
@@ -178,6 +218,20 @@ Jerome Thomas / How-To Geek
  Looking a little closer, however, the Xtreme 4 doesn’t have an overabundance of features and I was not overly impressed by its default sound profile. More than anything, I'm just not sure how the Xtreme 4 fits in JBL's lineup next to its other speakers. It's one of the newest speakers, but next to the Boombox3 or the [JBL Charge 5](https://driver-error.techidaily.com/silent-keyboard-lights-asus/) it just doesn't seem like a great deal. Those specifically are in slightly different size classes but are much better values. If you don’t need Auracast and a removable 20+ hour battery, I would probably be more inclined to pick another speaker over this one.
 
 ![JBL Xtreme 4 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/jbl-xtreme-4-tag.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  JBL Xtreme 4
 

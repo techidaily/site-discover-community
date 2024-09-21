@@ -1,7 +1,7 @@
 ---
 title: "Solving Video Issues: Effective Solutions When Your Computer Can't Play Movies"
-date: 2024-09-14T12:28:15.426Z
-updated: 2024-09-15T21:39:33.917Z
+date: 2024-09-19T00:45:32.486Z
+updated: 2024-09-20T17:35:39.215Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196b34a2ea4b98d961a480d427.jpg
@@ -223,16 +223,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -240,6 +234,13 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -347,13 +348,6 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
@@ -363,19 +357,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -405,6 +386,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -436,27 +424,20 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -501,6 +482,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -592,18 +580,12 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-7-phone-apps-for-changing-tone-quality/"><u>[Updated] In 2024, Premier 7 Phone Apps for Changing Tone Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-revolutionary-mac-screenshot-tools-a-five-step-guide/"><u>[Updated] Revolutionary Mac Screenshot Tools A Five-Step Guide</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726028081132-dvdmp4/"><u>「DVDをMP4に変換する究極のテクニック:高画質で安全なダウングレード方法」</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-four-free-ways-to-update-video-bg-music-easily/"><u>1. Four FREE Ways to Update Video BG Music Easily</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>2024 Approved Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-intel-graphics-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fixing Intel Graphics Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-poco-x5-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Poco X5 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resume-or-complete-an-interrupted-ios-software-update-6-methods/"><u>How to Resume or Complete an Interrupted iOS Software Update (6 Methods)</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-guide-mastering-the-art-of-free-flash-video-conversion-with-video-converter-factory/"><u>Step-by-Step Guide: Mastering the Art of Free Flash Video Conversion with Video Converter Factory</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-how-to-perfectly-record-your-pc-screen-and-voice-using-windows-11/"><u>Step-by-Step Tutorial: How to Perfectly Record Your PC Screen & Voice Using Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-efficiency-printer-driver-updates-in-windows-78/"><u>Unlocking Efficiency: Printer Driver Updates in Windows 7/8</u></a></li>
-<li><a href="https://discover-community.techidaily.com/windows-11mp34/"><u>Windows 11におけるMP3等オーディオファイルのカット技術：4つの最適解</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726027639237-3/"><u>ネットフリックス録画が得意な3つのベストソフト!一覧表示</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[New] Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-simplified-process-for-name-change-in-google-meet-laptopmobile-for-2024/"><u>[New] Simplified Process for Name Change in Google Meet (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-core-elements-of-virtual-tale-transmission/"><u>[Updated] Core Elements of Virtual Tale Transmission</u></a></li>
+<li><a href="https://discover-community.techidaily.com/wtvavimovavi/"><u>「効率的にオンラインWTV/AVI変換：Movaviの手軽無料サービス」</u></a></li>
+<li><a href="https://discover-community.techidaily.com/el-rapido-guia-para-las-8-aplicaciones-mas-eficaces-convertidoras-de-videos-a-gifs-este-ano/"><u>El Rápido Guía Para Las 8 Aplicaciones Más Eficaces Convertidoras De Vídeos a GIFs Este Año</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-digital-research-dont-miss-out-on-perplexity-ai-your-next-level-google-search-companer/"><u>Mastering Digital Research? Don't Miss Out on Perplexity AI, Your Next Level Google Search Companer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-10-recomendaciones-exitosas-para-crear-videos-de-tutoria-perfectos/"><u>Top 10 Recomendaciones Exitosas Para Crear Videos De Tutoría Perfectos</u></a></li>
 </ul></div>
 

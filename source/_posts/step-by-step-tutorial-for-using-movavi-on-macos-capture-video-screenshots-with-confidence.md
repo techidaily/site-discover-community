@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Using Movavi on macOS – Capture Video Screenshots with Confidence
-date: 2024-09-11T10:11:27.384Z
-updated: 2024-09-16T07:42:11.421Z
+date: 2024-09-15T23:27:55.772Z
+updated: 2024-09-21T08:38:54.506Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6f106f3aad361adc4196159e.jpg
@@ -192,6 +192,13 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à jour les pilotes de votre GPU
 
 Le GPU (Graphics Processing Unit) est crucial pour votre expérience de jeu et pour les performances de votre PC dans les jeux, mais vous devez maintenir les pilotes de votre GPU à jour pour en profiter. De plus, un pilote obsolète peut entraîner des bogues, des problèmes et des pannes du système. Nous vous recommandons donc de prendre ce problème au sérieux et de prendre soin de vos pilotes.
@@ -254,13 +261,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -285,6 +285,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -304,13 +311,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -339,13 +339,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -383,6 +376,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -393,6 +393,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -476,6 +483,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -488,13 +502,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -538,19 +545,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -586,15 +580,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-co-branded-narratives-for-youtube-audiences/"><u>[Updated] Crafting Co-Branded Narratives for YouTube Audiences</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-discover-how-free-video-converter-factory-simplifies-your-media-experience/"><u>1. Discover How Free Video Converter Factory Simplifies Your Media Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-meme-mastery-iphone-edition/"><u>2024 Approved Meme Mastery IPhone Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/flip-the-script-crafting-unique-and-shareable-memes-on-social-platforms/"><u>Flip the Script Crafting Unique and Shareable Memes on Social Platforms</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-and-easy-method-converting-bulk-wma-files-to-mp3-format-instantly/"><u>Quick and Easy Method: Converting Bulk WMA Files to MP3 Format Instantly</u></a></li>
-<li><a href="https://discover-community.techidaily.com/windows-mpg-concatenation-tutorial-merging-multiple-mpg-files-seamlessly/"><u>Windows MPG Concatenation Tutorial: Merging Multiple .mpg Files Seamlessly</u></a></li>
-<li><a href="https://discover-community.techidaily.com/wonderfox-tech-helpline-your-trusted-software-support-hub/"><u>WonderFox Tech Helpline: Your Trusted Software Support Hub</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-step-by-step-journey-to-professional-image-uploads-on-youtube/"><u>Your Step-by-Step Journey to Professional Image Uploads on YouTube</u></a></li>
-<li><a href="https://discover-community.techidaily.com/youtube1440p/"><u>YouTube動画の1440pフルダウンロード手順：ステップバイステップリファレンス</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-potential-of-facetime-voice-logging-for-2024/"><u>[New] Unlocking the Potential of FaceTime Voice Logging for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-window-to-world-class-video-playback/"><u>[Updated] In 2024, Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-game-hub-a-thousand-channels-for-gamers/"><u>[Updated] Ultimate Game Hub A Thousand Channels for Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-low-cost-gaming-setups-keyboard-picks/"><u>[Updated] Ultimate Low-Cost Gaming Setups Keyboard Picks</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-free-online-converter-convert-wav-files-to-swf-format-with-movavi/"><u>1. Free Online Converter: Convert WAV Files to SWF Format with Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-drone-experience-with-these-essentials/"><u>2024 Approved Elevate Your Drone Experience with These Essentials</u></a></li>
+<li><a href="https://discover-community.techidaily.com/rafjpeg-movavi/"><u>无成本在线转换RAF文件为JPEG: 简单快速，利用Movavi工具</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/accessible-ai-image-creation-with-dall-e-on-bing-complimentary/"><u>Accessible AI Image Creation with DALL-E on Bing, Complimentary!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/avsluttende-liste-over-obs-optaker-i-2028-forstehandlet-av-movavi/"><u>Avsluttende Liste over OBS-Optaker I 202([8] - Førstehandlet Av Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/creative-edge-in-video-making-discover-the-ultimate-14-content-creation-platforms/"><u>Creative Edge in Video Making: Discover the Ultimate 14 Content Creation Platforms</u></a></li>
+<li><a href="https://discover-community.techidaily.com/instant-online-vob-to-m4v-transformation-at-no-cost-with-moveave-streaming-solution/"><u>Instant Online VOB to M4V Transformation at No Cost with Moveave Streaming Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-indie-filmmakers-toolkit-top-7-low-cost-video-production-software-for-2024/"><u>New Indie Filmmakers Toolkit Top 7 Low-Cost Video Production Software for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-2024-ultimate-guide-to-free-and-best-screen-capture-tools-top-picks-for-online-use/"><u>The 2024 Ultimate Guide to Free & Best Screen Capture Tools - Top Picks for Online Use</u></a></li>
 </ul></div>
 

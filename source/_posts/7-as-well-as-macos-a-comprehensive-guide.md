@@ -1,7 +1,7 @@
 ---
 title: "7 as Well as macOS: A Comprehensive Guide"
-date: 2024-09-08T16:11:56.825Z
-updated: 2024-09-15T21:05:22.778Z
+date: 2024-09-14T13:00:00.562Z
+updated: 2024-09-21T05:53:21.566Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd6443868bb9392e788fdb87eec8.jpg
@@ -266,6 +266,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -278,6 +285,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -286,6 +300,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -326,13 +347,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -345,18 +359,24 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -425,19 +445,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -486,13 +493,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -512,6 +512,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -521,13 +528,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -586,14 +586,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-celebrating-creativity-otu-samples-freepaid/"><u>[New] Celebrating Creativity OTU Samples (Free/Paid)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-screens-with-active-8-a-comparative-review-for-2024/"><u>[New] Mastering Screens with Active 8 - A Comparative Review for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-installing-tiktok-your-path-to-joyful-macbook-experience-for-2024/"><u>[Updated] Installing TikTok Your Path to Joyful MacBook Experience for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726029721470-2/"><u>「魅力的なスライドショーを生み出すための2つの最適化手段:写真から動画へ」</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-angles-strategic-composition-tips-for-iphone-photography/"><u>2024 Approved Unveiling Angles Strategic Composition Tips for iPhone Photography</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-edge-video-communities-eclipsing-youtube-for-2024/"><u>Cutting-Edge Video Communities Eclipsing Youtube for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726030483678-iphoneyoutube/"><u>IPhoneでお気に入りの楽曲をYouTube抽出した着メロへ変更する手順</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726028100390-spotv-now/"><u>SPOTV NOW公式チャネルの生中継録画対応法</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-in-year/"><u>The Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone in Year</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-craft-compelling-openers-for-your-podcast-episodes-examples-and-tips/"><u>[New] Craft Compelling Openers for Your Podcast Episodes Examples & Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-stalled-facebook-videos-on-mobile/"><u>[New] Unlock Stalled Facebook Videos on Mobile</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-detailed-audit-unveiling-the-dji-inspire-1/"><u>[Updated] Detailed Audit Unveiling the DJI Inspire 1</u></a></li>
+<li><a href="https://discover-community.techidaily.com/wtvavimovavi/"><u>「効率的にオンラインWTV/AVI変換：Movaviの手軽無料サービス」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-ios-filmmaking-software-for-2024/"><u>Best iOS Filmmaking Software for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/convert-mkv-files-to-mp4-for-free-effortless-mpg-editing-with-movavi/"><u>Convert MKV Files to MP4 for Free: Effortless MPG Editing with Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/el-rapido-guia-para-las-8-aplicaciones-mas-eficaces-convertidoras-de-videos-a-gifs-este-ano/"><u>El Rápido Guía Para Las 8 Aplicaciones Más Eficaces Convertidoras De Vídeos a GIFs Este Año</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhanced-web-personalization-and-tracking-powered-through-cookiebot-solutions/"><u>Enhanced Web Personalization and Tracking Powered Through Cookiebot Solutions</u></a></li>
+<li><a href="https://discover-community.techidaily.com/expert-advice-mastering-solo-videography-12-top-tips-from-movavi/"><u>Expert Advice: Mastering Solo Videography - 12 Top Tips From Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-oppo-find-n3-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo Find N3 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-color-correction-using-luts/"><u>Navigating the Complexities of Color Correction Using LUTs</u></a></li>
+<li><a href="https://discover-community.techidaily.com/pc-ve-mobil-aracliklar-icin-discord-destekli-ekran-paylasima/"><u>PC Ve Mobil Araclıklar Için Discord Destekli Ekran Paylaşıma</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-x6-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco X6 Device</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-10-recomendaciones-exitosas-para-crear-videos-de-tutoria-perfectos/"><u>Top 10 Recomendaciones Exitosas Para Crear Videos De Tutoría Perfectos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-supercharge-your-fcpx-experience-10-free-plugins-you-wont-want-to-miss/"><u>Updated 2024 Approved Supercharge Your FCPX Experience 10 Free Plugins You Wont Want to Miss</u></a></li>
 </ul></div>
 

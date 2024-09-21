@@ -1,7 +1,7 @@
 ---
 title: "Movavi Slideshow Creator: Simplify Your Photo Presentations"
-date: 2024-09-11T03:33:09.260Z
-updated: 2024-09-16T11:30:25.650Z
+date: 2024-09-13T17:55:28.486Z
+updated: 2024-09-21T10:49:37.669Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f885c10acf9d70c8e5fd03d37.jpg
@@ -222,6 +222,13 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -306,16 +313,22 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -345,13 +358,6 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -375,6 +381,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -415,13 +428,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -444,6 +450,19 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -513,13 +532,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -531,10 +543,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 5. Installez les derniers pilotes pour votre carte graphique
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
@@ -580,21 +592,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-enhancing-facebook-viewership-with-obs-broadcasts-for-2024/"><u>[New] Enhancing Facebook Viewership with OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-hot-off-the-press-todays-most-viewed-videos-on-social-platforms/"><u>[New] In 2024, Hot Off the Press Today’s Most Viewed Videos on Social Platforms</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tracing-back-on-facebook-a-laptop-and-mobile-recipe/"><u>[Updated] 2024 Approved Tracing Back on Facebook A Laptop & Mobile Recipe</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-echo-enthusiasts-emporium-obtain-and-review-sound-files/"><u>[Updated] In 2024, Echo Enthusiasts Emporium Obtain & Review Sound Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-strategies-for-effective-phone-note-taking/"><u>[Updated] Proven Strategies for Effective Phone Note-Taking</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726029239983-mp4mov/"><u>「取り込めない動画問題: ビデオスタジオでMP4とMOVを簡単にインポートする方法」</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-easy-steps-convert-your-dvds-into-an-iso-file-using-top-rated-software-tools/"><u>1. Easy Steps: Convert Your DVDs Into an ISO File Using Top-Rated Software Tools</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-freemake-video-converter-evaluation-security-cost-free-features-and-value-assessment/"><u>1. Freemake Video Converter Evaluation: Security, Cost-Free Features & Value Assessment</u></a></li>
-<li><a href="https://discover-community.techidaily.com/best-places-to-get-free-subtitle-downloads-a-comprehensive-guide/"><u>Best Places to Get Free Subtitle Downloads: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726028044285-dvd/"><u>DVD再生失敗:パワーディレクターが引く不具合と解消方法</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g04-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G04 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m14-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M14 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mixing-music-into-your-instagram-visuals/"><u>In 2024, Mixing Music Into Your Instagram Visuals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ate-guide-to-easy-youtube-subtitle-and-closed-caption-addition/"><u>Ultimate Guide to Easy YouTube Subtitle and Closed Caption Addition</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726029776260-youtubeyoutube-music/"><u>YouTubeやYouTube Musicで音楽ファイルのアップロード手順</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726027516216-geforce-experience/"><u>ゲーマー新人のためのGeForce Experienceで簡単に設定！</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-process-to-crafting-impressive-youtube-shorts-templates-for-2024/"><u>[New] Step-By-Step Process to Crafting Impressive YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-world-of-warcraft-was-unable-to-start-up-3d-acceleration/"><u>[Solved] World of Warcraft Was Unable to Start up 3D Acceleration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-power-packed-film-titles-for-inner-growth-and-strength/"><u>2024 Approved Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726228043356-jpegbmp-movavi/"><u>免費線上更新：JPEG轉換成BMP - 利用Movavi的變體功能</u></a></li>
+<li><a href="https://win-dash.techidaily.com/all-in-one-strategies-for-efficiently-extracting-and-replicating-content-from-dvdscds/"><u>All-in-One Strategies for Efficiently Extracting & Replicating Content From DVDs/CDs</u></a></li>
+<li><a href="https://facebook.techidaily.com/detect-and-deter-the-top-14-scams-on-facebook-at-hand/"><u>Detect and Deter: The Top 14 Scams on Facebook at Hand</u></a></li>
+<li><a href="https://discover-community.techidaily.com/gratuit-online-omzwerken-van-m4a-naar-ogg-movavi/"><u>Gratuit Online Omzwerken Van M4A Naar OGG - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-completa-y-gratuita-para-cambiar-facilmente-mov-a-mp4-en-mac-windows-11-y-versiones-online/"><u>Guía Completa Y Gratuita Para Cambiar Fácilmente MOV a MP4 en Mac, Windows 11, Y Versiones Online</u></a></li>
+<li><a href="https://discover-community.techidaily.com/online-converter-voor-ape-en-flac-vrije-dienst-via-movavi/"><u>Online Converter Voor APE en FLAC - Vrije Dienst via Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-pop-8-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Pop 8 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/transformar-flac-en-mp3-con-garantia-de-alta-fidelidad-servicio-rapido-y-completamente-libre-de-costos/"><u>Transformar FLAC en MP3 Con Garantía De Alta Fidelidad, Servicio Rápido Y Completamente Libre De Costos</u></a></li>
+<li><a href="https://discover-community.techidaily.com/transformation-gratuite-en-ligne-de-fichiers-ogm-en-format-wmv-services-video-vidabril/"><u>Transformation Gratuite en Ligne De Fichiers OGM en Format WMV - Services Vidéo Vidabril</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Play 7T? | Dr.fone</u></a></li>
 </ul></div>
 

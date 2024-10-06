@@ -1,7 +1,7 @@
 ---
 title: Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
-date: 2024-09-10T09:09:29.792Z
-updated: 2024-09-11T09:09:29.792Z
+date: 2024-10-04T17:42:15.580Z
+updated: 2024-10-05T17:25:16.649Z
 tags:
   - product-reviews
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Classic Meets Contemporary in the JBL Authentics Prise, an All-in-One Audio Spectacle Reviewed!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -36,26 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  JBL Authentics 300
 
@@ -124,23 +90,22 @@ Tyler Hayes / How-To Geek
 
  Over Wi-Fi, the unit supports Spotify Connect, Apple AirPlay, Chromecast, and Tidal Connect, which are in addition to its Bluetooth connection.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Sound Is Great Over Bluetooth, Wi-Fi, or a Wire
 
 ![close up JBL Authentics 300 volume light indicator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-jbl-authentics-300-volume-light-indicator.JPG) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -162,25 +127,12 @@ The light under the heart button is the volume indicator. Can you tell how loud 
 
 ![back of the JBL Authentics 300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-jbl-authentics-300.JPG) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -194,37 +146,16 @@ The switch on the back, at the top, is for turning the listening microphones on 
 
  My biggest question is whether a lot of people use multiple assistants in their homes. Many may have a household with mixed devices, but is a single device with two, interchangeable assistants a huge draw? Now, if JBL can add Siri to the mix, that would be a great magic trick. Still, having the Google Assistant available on this speaker and not on the Sonos Move 2 may sway people towards JBL's option.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Battery Life Is Just Enough
 
 ![close up of the top of the JBL Authentics 300 showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-of-the-top-of-the-jbl-authentics-300-showing-buttons.JPG) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -248,6 +179,13 @@ Close
 
  I liked using the JBL One app. It was neat that it showed how many hours I had listened to music. Unfortunately, it was lackluster in a bunch of ways, too. The battery level didn’t update for me in real-time. Often, I would have to quit the app and re-launch it for it to display the current battery level. Also, the battery level only displayed 10-percent increments—what’s up with that? That means you'll see a 40% battery level, for example, until suddenly it drops to 30%. That can be jarring and cause issues with how and when you plan to charge the unit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Authentics 300 Price and Availability
 
  The JBL Authentics 300 is the middle speaker in the Authentics lineup and retails for $449.99\. The [Authentics 200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjbl-authentics-200-smart-home-speaker-black%2F6554781.p%3FskuId%3D6554781) starts at $349.99, and the [Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) comes in at $699.99\. The 300 is the only speaker of the three with a built-in battery.
@@ -255,20 +193,6 @@ Close
 ##  Should You Buy the JBL Authentics 300?
 
 ![JBL Authentics 300 inside on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-inside-on-a-table.JPG) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Tyler Hayes / How-To Geek
 
@@ -282,35 +206,14 @@ Tyler Hayes / How-To Geek
 
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #####  JBL Authentics 300
 
@@ -358,8 +261,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -367,4 +268,23 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-revolutionize-your-videos-with-360-degrees-a-step-by-step-guide-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Revolutionize Your Videos with 360 Degrees A Step-by-Step Guide for YouTube Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-organizing-chaos-a-guide-to-youtube-list-shuffling/"><u>[Updated] In 2024, Organizing Chaos A Guide to YouTube List Shuffling</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726227530787-mxf-gif-movavi/"><u>網路上無成本地自動轉換 MXF 到 GIF - 利用 Movavi 轉檔工具</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-free-substitutes-to-pinnacle-studio-top-5-options-compatible-with-both-windows-and-macos/"><u>Best Free Substitutes to Pinnacle Studio: Top 5 Options Compatible with Both Windows & macOS</u></a></li>
+<li><a href="https://discover-community.techidaily.com/cambia-archivos-de-tiff-a-jpg-sin-coste-con-la-herramienta-on-line-de-conversion-de-imagenes-de-movavi/"><u>Cambia Archivos De Tiff a Jpg Sin Coste Con La Herramienta On-Line De Conversión De Imágenes De Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-n3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find N3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-advice-on-maximizing-fidelity-in-vr-recording-for-2024/"><u>Expert Advice on Maximizing Fidelity in VR Recording for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/gratis-mpeg-to-wma-konverteren-online-kort-en-echt/"><u>Gratis MPEG-to-WMA Konverteren Online - Kort en Echt</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-blueprint-setting-up-a-live-video-feed/"><u>In 2024, Beginner's Blueprint Setting Up a Live Video Feed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-leap-by-mercedes-benz-with-new-chatgpt-and-voice-commands-integration/"><u>Innovative Leap by Mercedes-Benz with New ChatGPT and Voice Commands Integration</u></a></li>
+<li><a href="https://discover-community.techidaily.com/los-mejoras-herramientas-para-crear-videos-en-instagram-top-5-editores-recomendados/"><u>Los Mejoras Herramientas Para Crear Videos en Instagram: Top 5 Editores Recomendados</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726221432462-m4a-aiff/"><u>M4A 및 AIFF 파일 원격 제공으로 자이오스를 사용하여 원통화: 무료 인터넷 도구</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-gt-3-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme GT 3</u></a></li>
+<li><a href="https://discover-community.techidaily.com/movavis-web-based-service-for-gratis-conversion-of-wmv-video-to-aac-audio/"><u>Movavi's Web-Based Service for Gratis Conversion of WMV Video to AAC Audio</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/pc-intro-maker-showdown-top-10-tools-online-offline-and-more-for-2024/"><u>PC Intro Maker Showdown Top 10 Tools Online, Offline, and More for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revealing-review-barnes-and-nobles-latest-innovation-a-closer-look-at-the-enlarged-display-ebook-reader/"><u>Revealing Review: Barnes & Noble's Latest Innovation - A Closer Look at the Enlarged Display eBook Reader</u></a></li>
+</ul></div>
 

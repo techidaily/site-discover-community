@@ -1,33 +1,13 @@
 ---
 title: "Efficient and Practical: The Lenovo ThinkPad E16 Gen 1 as a Foundation of Business Computing"
-date: 2024-09-10T09:09:29.833Z
-updated: 2024-09-11T09:09:29.833Z
+date: 2024-10-04T01:55:51.134Z
+updated: 2024-10-05T21:53:48.623Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c944d538d367654e5b9adad2.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Efficient and Practical: The Lenovo ThinkPad E16 Gen 1 as a Foundation of Business Computing
 
@@ -117,35 +97,36 @@ Expand
 
 [$909.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-thinkpad-e16-gen-1-16-touch-screen-laptop-intel-core-i5-with-16gb-memory-512gb-ssd-black%2F6549720.p%3FskuId%3D6549720) [See at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpade%2Fthinkpad-e16-%2816-inch-intel%29%2Flen101t0066) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Design: Mass with Class
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desk with its AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1-with-the-charger_53287490495_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Sergio Rodriguez / How-To Geek
 
  At nearly four pounds and measurements of 14 x 9.75 x 0.78 inches, this is not what would be considered a thin and light laptop. Instead, you get a [MIL-STD-810H-certified](https://systelusa.com/blog/what-is-mil-std-810h/) machine that passed rigorous environmental testing. Of course, since the design features a lot of [PC-ABS](https://www.xometry.com/resources/materials/pc-abs/) plastic to go along with the aluminum top, there's some flex to the laptop body if you push hard and a bit of wobble with its display when typing on an unstable surface. Despite this lack of overall rigidity, it's not a laptop you'd be afraid to manhandle.
 
  The all-graphite black design retains the classic ThinkPad look. The iconic red TrackPoint pointing stick in the middle of the keyboard and the red indicator light embedded in the ThinkPad logo on the back of the display are similarly unmistakable. It's a classy, unassuming laptop that's appropriate for even the most sedate business environment. On the downside, the exterior of the laptop case is a fingerprint magnet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hardware and Battery Life: Mixed Results
 
@@ -158,20 +139,6 @@ Sergio Rodriguez / How-To Geek
  The laptop has two M.2 slots, with one M.2 2242 PCIe 3.0 x4 slot and one 4.0 x 4 slot, the latter of which is populated with a 512GB SSD M.2 NVMe Opal 2.0 storage drive. While it would have been nice to have more storage space standard, the easy expandability is welcome, and the drive's relatively high performance is a good match for the other components.
 
 ![Lenovo ThinkPad E16 Gen 1 closed on a desktop showing its left side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-closed-lenovo-thinkpad-e16-gen-1_53287396884_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Sergio Rodriguez / How-To Geek
 
@@ -205,19 +172,12 @@ Sergio Rodriguez / How-To Geek
 
 Your browser does not support the video tag. 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Interfaces: Keyboard and Other Input
 
@@ -231,37 +191,16 @@ Sergio Rodriguez / How-To Geek
 
  One area where Lenovo can almost always be counted on to deliver is with its trackpad and iconic red rubber TrackPoint point stick. The trackpad is well-positioned slightly to the left center below the keyboard and is smooth and responsive. All of the usual two-finger gestures like zoom in or out work flawlessly. The three large mouse buttons both augment the ability to tap and click on the trackpad, as well as provide the necessary actions when favoring the use of the TrackPoint, which is found in its usual home in between the G, H, B, and N keys on the keyboard.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Software and Performance Tests
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desktop showing a close-up of its upper right side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-fingerprint-reader-on-the-lenovo-thinkpad-e16-gen-1_53287490545_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Sergio Rodriguez / How-To Geek
 
@@ -279,20 +218,6 @@ Sergio Rodriguez / How-To Geek
 
  The built-in 100/1000M RJ-45 Ethernet jack is a nice touch for maximum network performance when a wired connection is an option, but the Intel Wi-Fi 6 AX2011, 11ax 2x2 wireless connection is similarly effective. On my [eero Pro 6E](https://www.amazon.com/eero-reliable-gigabit-connect-Coverage/dp/B091G64GVK/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001163&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-thinkpad-e16-gen-1-review%2F&asc%5Fcampaign=Affiliate) Wi-Fi network that's on a gigabit connection, the ThinkPad E16 Gen 1 correctly identified the fastest connection, enabled WPA3 security, and consistently provided at least 450Mbps download speeds with sub-25 ms pings.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Should You Buy the Lenovo ThinkPad E16 Gen 1?
 
  There's a lot of competition at or around the $1,000 price point for laptops. The [ThinkPad E16 Gen 1](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-thinkpad-e16-gen-1-16-touch-screen-laptop-intel-core-i5-with-16gb-memory-512gb-ssd-black%2F6549720.p%3FskuId%3D6549720), doesn't do much to stand out in this crowded field. However, despite sporting something of a throwback design, Lenovo's laptop does provide some practical benefits, including a well-sized, stable keyboard and a large 16-inch touchscreen.
@@ -302,26 +227,6 @@ Sergio Rodriguez / How-To Geek
  Despite its lackluster looks and plastic body, I enjoyed typing on the keyboard and working on the display. There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and usability that just might make it a good option even for non-business users who don’t mind substance without much style. Just be sure you understand its limitations before dismissing other options around this price range.
 
 ![Lenovo ThinkPad E16 Gen 1 promotional image of open laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/6549720cv3d.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Lenovo ThinkPad E16 Gen 1
 
@@ -337,8 +242,6 @@ There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -346,4 +249,22 @@ There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-thriving-in-the-youtube-ecosystem-backlink-building-essentials/"><u>[New] In 2024, Thriving in the YouTube Ecosystem Backlink Building Essentials</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-transitional-soundscapes-in-cubase/"><u>2024 Approved Crafting Transitional Soundscapes in Cubase</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-razr-40-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Razr 40 Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-xcover-6-pro-tactical-edition-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy XCover 6 Pro Tactical Edition Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/flytt-til-en-nye-stemmendudersyn-erstatte-din-lyd-med-videobevisningshjaelper/"><u>Flytt Til en Nye Stemmendudersyn - Erstatte Din Lyd Med Videobevisningshjælper</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v27e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V27e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/solving-video-issues-effective-solutions-when-your-computer-cant-play-movies/"><u>Solving Video Issues: Effective Solutions When Your Computer Can't Play Movies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-version-of-mac-osx-stellar-eraser-convenient-scheduled-data-removal-tool/"><u>Standard Version of Mac OSX Stellar Eraser: Convenient Scheduled Data Removal Tool</u></a></li>
+<li><a href="https://discover-community.techidaily.com/tga-bestandsoptimizeren-online-met-gratis-diensten-vs-movavi-het-voorraadvertonenvertoningscomparatie/"><u>TGA-Bestandsoptimizeren Online Met Gratis Diensten Vs. Movavi: Het Voorraadvertonenvertoningscomparatie</u></a></li>
+<li><a href="https://discover-community.techidaily.com/virtueel-omzetten-van-vob-bestandjes-gratis-webzuivering-met-movavi/"><u>Virtueel Omzetten Van VOB-Bestandjes: Gratis Webzuivering Met Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726226243872-rmvb-mp4-movavi/"><u>무료 RMVB-MP4 변환기: 웹에서 빠르게 사용하세요 - Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/caf-movavi-flac/"><u>무료 송구: 콜라운에서 시이오엔 CAF 파일을 필레이크링하기 - Movavi FLAC 바이트 변환</u></a></li>
+</ul></div>
 

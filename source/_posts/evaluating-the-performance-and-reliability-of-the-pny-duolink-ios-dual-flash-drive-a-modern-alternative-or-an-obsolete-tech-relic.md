@@ -1,33 +1,13 @@
 ---
 title: "Evaluating the Performance and Reliability of the PNY DuoLink iOS Dual Flash Drive: A Modern Alternative or an Obsolete Tech Relic?"
-date: 2024-09-10T09:09:29.849Z
-updated: 2024-09-11T09:09:29.849Z
+date: 2024-10-03T01:51:32.879Z
+updated: 2024-10-05T16:03:10.207Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/e02c41a99d42d63b7e95bafe0fe0df1b7497d09e9c40411355dba4e89fa8d316.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Evaluating the Performance and Reliability of the PNY DuoLink iOS Dual Flash Drive: A Modern Alternative or an Obsolete Tech Relic?
 
@@ -46,20 +26,6 @@ thumbnail: https://thmb.techidaily.com/e02c41a99d42d63b7e95bafe0fe0df1b7497d09e9
  The [PNY Duo Link iOS Dual](https://www.pny.com/duo-link-ios-usb-3-2-dual-flash-drive?sku=P-FDI64GDULINKLGT-GE) flash drive can mostly be described as “Too little, too late.” Apple abandoned its Lightning connector for its entire line of iPhone 15 models in favor of using the more universal USB-C port for charging and transferring data. Even if you have a Lightning-enabled iPhone now, you won’t in the future.
 
 ![PNY-USB-Flash-Drive-OTG-DUO-Link-iOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/pny-usb-flash-drive-otg-duo-link-ios-3-2-lightning-type-a-op6-removebg-preview.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  PNY Duo Link iOS Dual Flash Drive
 
@@ -93,9 +59,23 @@ The PNY DUO LINK iOS USB 3.2 Dual Flash Drive bridges the gap between mobile and
 
 [See at PNY](https://www.pny.com/duo-link-ios-usb-3-2-dual-flash-drive) [See at Amazon](https://www.amazon.com/PNY-128GB-Link-Flash-Drive/dp/B0C795JGGM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2000124&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fpny-duo-link-ios-dual-flash-drive-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  An Outdated Design That Didn’t Have to Be
 
 ![PNY Duo Link iOS showing its Lightning and USB-A connectors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53132444988_f90ebf4208_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -117,19 +97,18 @@ Joe Robinson / How-To Geek
 
 ![PNY Duo Link iOS stuck into an iPhone with the mobile app displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53132447133_4969b43f07_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Joe Robinson / How-To Geek
 
@@ -147,57 +126,15 @@ Close
 
  The drive itself supports transfer speeds up to USB 3.2 Gen 1, meaning up to 5Gbps with compatible devices. That’s certainly not the fastest transfer rate possible but with most iPhones probably containing around 128GB of storage or less, it would be manageable. I moved videos and pictures around from my phone to a computer, via a USB-A adapter, and back again multiple times with success. The drive functioned as advertised.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Price and Availability
 
  The PNY Duo Link iOS Dual flash drive is available now and starts at $24.99 for 64GB of storage space.
 
  For those who only need a USB-C port, the Duo Link Type-C Dual flash drive starts at $9.99 for 64GB of storage and only costs [$22.99 for 256GB](https://www.pny.com/duo-link-usb-3-2-type-c-dual-flash-drive).
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Should You Buy the PNY Duo Link iOS Dual Flash Drive?
 
 ![PNY Duo Link iOS showing the Lightning connector covered by a plastic cap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53132374845_75c1c39f6c_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Joe Robinson / How-To Geek
 
@@ -206,6 +143,19 @@ Joe Robinson / How-To Geek
  The app experience was poor and the hardware will not be compatible with most iPhones in the immediate future. The good news is that once most devices have a USB-C port, the price of a device like this will come down significantly and may be worth an impulse buy for occasional uses.
 
 ![PNY-USB-Flash-Drive-OTG-DUO-Link-iOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/pny-usb-flash-drive-otg-duo-link-ios-3-2-lightning-type-a-op6-removebg-preview.png) 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  PNY Duo Link iOS Dual Flash Drive
 
@@ -221,8 +171,6 @@ The PNY DUO LINK iOS USB 3.2 Dual Flash Drive bridges the gap between mobile and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +178,24 @@ The PNY DUO LINK iOS USB 3.2 Dual Flash Drive bridges the gap between mobile and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-clear-focus-navigating-the-nuances-of-zooming/"><u>[New] 2024 Approved Clear Focus Navigating the Nuances of Zooming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-compelling-conversations-essential-expressions/"><u>[New] In 2024, Crafting Compelling Conversations Essential Expressions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-decoding-t-series-online-earnings-stream/"><u>[Updated] Decoding T-Series' Online Earnings Stream</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-dividing-top-4k-captures-best-gimbal-pairings-for-2024/"><u>[Updated] Dividing Top 4K Captures Best Gimbal Pairings for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-mp4-editing-on-mac-top-selections-for-youtubers/"><u>2024 Approved Mastering MP4 Editing on Mac Top Selections for YouTubers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-seamless-blending-android-tips-for-multi-video-editing/"><u>2024 Approved Seamless Blending Android Tips for Multi-Video Editing</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726224030021-mp4-wmv-movavi/"><u>免費網路線上轉換 MP4 成 WMV：使用 Movavi 工具方便省時</u></a></li>
+<li><a href="https://discover-community.techidaily.com/avimp3-movavi/"><u>優化移動端友好的免費AVI到MP3格式過濾程式 - 使用Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-file-save-obstacles-quick-fixes-to-overcome-win11-issues/"><u>Bypass File Save Obstacles: Quick Fixes to Overcome WIN11 Issues</u></a></li>
+<li><a href="https://discover-community.techidaily.com/conversion-facile-et-gratuite-de-fichier-mp4-en-format-aiff-sur-internet-movavi/"><u>Conversion Facile Et Gratuite De Fichier MP4 en Format AIFF Sur Internet - Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/easy-and-effective-way-to-change-gifs-into-videos-using-a-proven-free-tool-by-movavi/"><u>Easy and Effective Way to Change GIFs Into Videos Using a Proven, Free Tool by Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/free-online-converter-convert-m4b-and-mkv-files-movavi-guide/"><u>Free Online Converter: Convert M4B & MKV Files - Movavi Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-raw-to-jpeg-converter-movavi-photo-editor/"><u>Free Online RAW to JPEG Converter - Movavi Photo Editor</u></a></li>
+<li><a href="https://discover-community.techidaily.com/gratis-konverteren-van-pbm-naar-png-online-bewerkt-door-movavi/"><u>Gratis Konverteren Van PBM Naar PNG - Online Bewerkt Door Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/registrazione-dello-schermo-senza-problemi-con-moveavi-il-tuo-partner-affidabile-per-una-registrazione-fluida/"><u>Registrazione Dello Schermo Senza Problemi Con MoveAVI - Il Tuo Partner Affidabile per Una Registrazione Fluida</u></a></li>
+<li><a href="https://discover-community.techidaily.com/wav-verspillen-naar-m4r-met-gratis-movavi-online-tool-professioneel-en-makkelijk/"><u>WAV Verspillen Naar M4R Met Gratis Movavi Online Tool - Professioneel en Makkelijk</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+</ul></div>
 

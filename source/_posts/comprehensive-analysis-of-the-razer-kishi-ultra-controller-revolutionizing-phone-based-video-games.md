@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the Razer Kishi Ultra Controller - Revolutionizing Phone-Based Video Games
-date: 2024-09-10T09:09:29.811Z
-updated: 2024-09-11T09:09:29.811Z
+date: 2024-09-30T17:37:36.013Z
+updated: 2024-10-05T18:47:53.891Z
 tags:
   - product-reviews
 categories:
@@ -10,20 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Comprehensive Analysis of the Razer Kishi Ultra Controller - Revolutionizing Phone-Based Video Games
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -35,35 +21,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![razer kishi ultra thumbnail 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/razer-kishi-ultra-thumbnail-2.png) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Razer Kishi Ultra
 
@@ -136,25 +94,12 @@ Expand
 
 ![The Razer Kishi Ultra with rubber pads and box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53736584008_7b2dd9461a_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Jerome Thomas / How-To Geek
 
@@ -186,19 +131,12 @@ Jerome Thomas / How-To Geek
 
 ![53736584028_df1b5f0a29_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53736584028_df1b5f0a29_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  When you connect the iPad mini to the Razer Kishi Ultra, it's a bit awkward but manageable in terms of size. But in terms of weight, you have a 559-gram portable you're holding up (without an iPad case). For reference, the original Nintendo Switch model is 297 grams, and the Steam Deck is a hefty 669 grams, so the Kishi lands a bit on the heavier side for portables. Of course, the weight is lower if you're attaching a smartphone instead—the controller with my Pixel 7a is 459.5 grams—but if you're coming from a Switch, you'll notice the weight difference.
 
@@ -208,19 +146,12 @@ Jerome Thomas / How-To Geek
 
  But, the Kishi Ultra is a great travel companion. While it can't fold down like the regular Kishi, you can keep it connected to your device indefinitely with a USB-C passthrough charging port. It may be a bit awkward to pack and take with you, but if you're looking for a replacement for other portable consoles (and like the mobile game offerings), the Razer Kishi Ultra can be it.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Should you Buy the Razer Kishi Ultra?
 
@@ -234,21 +165,14 @@ Jerome Thomas / How-To Geek
 
 ![razer kishi ultra thumbnail 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/razer-kishi-ultra-thumbnail-2.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
 
 #####  Razer Kishi Ultra
 
@@ -264,8 +188,6 @@ The Razer Kishi Ultra takes the very best of console controller technology and b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +195,24 @@ The Razer Kishi Ultra takes the very best of console controller technology and b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-professional-tricks-efficiently-cropping-photos-online/"><u>[New] Professional Tricks Efficiently Cropping Photos Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-images-the-novices-guide-to-snapseed/"><u>[Updated] 2024 Approved Enhancing Images The Novice's Guide to Snapseed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>[Updated] 2024 Approved Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[Updated] A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-desktop-capture-the-windows-user-guide/"><u>[Updated] Desktop Capture The Windows User Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-syncing-melodies-with-video-in-premiere-pro/"><u>2024 Approved Syncing Melodies with Video in Premiere Pro</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comment-transformer-un-fichier-ogg-en-format-mp3/"><u>Comment Transformer Un Fichier Ogg en Format MP3 ?</u></a></li>
+<li><a href="https://discover-community.techidaily.com/decouvrez-les-dix-outils-dedition-video-les-plus-performants-pour-windows-comme-alternative-a-imovie/"><u>Découvrez Les Dix Outils D’Édition Vidéo Les Plus Performants Pour Windows Comme Alternative À iMovie !</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-draft-to-delightful-storyboarding-animations-in-movie-maker/"><u>In 2024, From Draft to Delightful Storyboarding Animations in Movie Maker</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-iris-xe-graphics-drivers-download-compatible-with-windows-11/"><u>Intel Iris Xe Graphics Drivers Download – Compatible with Windows 11</u></a></li>
+<li><a href="https://discover-community.techidaily.com/movili-gratis-convertir-archivos-orf-a-formato-jpeg-sin-problemas/"><u>Móvili Gratis - Convertir Archivos ORF a Formato JPEG Sin Problemas</u></a></li>
+<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-effortless-video-capturing-from-monitor-with-skjermopptak-get-it-here/"><u>Step-by-Step Tutorial: Effortless Video Capturing From Monitor with Skjermopptak – Get It Here!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/tecnica-facil-para-lograr-una-efectiva-videos-en-pantalla-dividida-con-dos-historias-visuales/"><u>Técnica Fácil Para Lograr Una Efectiva Vídeos en Pantalla Dividida Con Dos Historias Visuales</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eling-youtubes-highest-peaks-post-vidcon/"><u>Unraveling Youtube's Highest Peaks (Post-VidCon)</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726225409339-raw/"><u>모달아바이의 위탤로 공개 가용성 내 RAW 스케일링 도구 목록</u></a></li>
+<li><a href="https://discover-community.techidaily.com/pcx-gif-movavi/"><u>온라인 자리가 비즈 PCX 포스터에서 GIF 변환 - Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/raw-to-jpg-by-movavi/"><u>オンラインでの自由な画像フォーマット変換:ネフカメラRAW to JPG by Movavi, 迅速解決策</u></a></li>
+</ul></div>
 

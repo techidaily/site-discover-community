@@ -1,7 +1,7 @@
 ---
 title: Download the Ultimate Free Screen Capture App Compatible with Windows & macOS
-date: 2024-10-12T18:09:29.776Z
-updated: 2024-10-17T21:17:51.948Z
+date: 2024-10-20T16:15:16.175Z
+updated: 2024-10-23T16:04:57.036Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71efecc038445ff4a1004f5e072.jpg
@@ -152,9 +152,23 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
@@ -167,10 +181,10 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
@@ -190,13 +204,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -227,13 +234,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -291,6 +291,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -307,13 +314,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -345,6 +345,19 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -390,13 +403,6 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -407,13 +413,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -450,10 +449,10 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -470,15 +469,22 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -601,24 +607,14 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-instagram-to-twitter-share-content-directly-no-rt-for-2024/"><u>[Updated] Instagram to Twitter Share Content Directly (No RT) for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers-for-2024/"><u>[Updated] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-shuttered-brilliance-selecting-the-ultimate-cam-for-slow-speed-vids/"><u>[Updated] Shuttered Brilliance Selecting the Ultimate Cam for Slow Speed Vids</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-recuperacao-gratuita-de-informacoes-do-cartao-sd-sem-formatacao-8-estrategias-provas-e-eficazes/"><u>1. Recuperação Gratuita De Informações Do Cartão SD Sem Formatação: 8 Estratégias Provas E Eficazes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-streaming-masterpieces-best-movie-directories-on-yt/"><u>2024 Approved Streaming Masterpieces Best Movie Directories on YT</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/before-you-leave-what-to-evaluate-in-your-online-space/"><u>Before You Leave, What to Evaluate in Your Online Space</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/como-convertir-archivo-webm-al-formato-de-audio-sin-perdidas-flac-online-y-sin-coste/"><u>Cómo Convertir Archivo WEBM Al Formato De Audio Sin Pérdidas (FLAC) Online Y Sin Coste</u></a></li>
-<li><a href="https://discover-community.techidaily.com/ejecucion-del-sincronizador-miroir-utilizando-aomei-backup-and-recovery/"><u>Ejecución Del Sincronizador Miroir Utilizando AOMEI BackUp & Recovery</u></a></li>
-<li><a href="https://discover-community.techidaily.com/error-404-pages-gone-missing/"><u>Error 404: Pages Gone Missing</u></a></li>
-<li><a href="https://discover-community.techidaily.com/guide-complet-comment-retrouver-des-fichiers-video-effaces-de-votre-carte-micro-sd/"><u>Guide Complet : Comment Retrouver Des Fichiers Vidéo Effacés De Votre Carte Micro-SD</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-transfer-your-ps4-game-data-from-hdd-to-ssd-a-step-by-step-guide/"><u>How to Transfer Your PS4 Game Data From HDD to SSD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers/"><u>In 2024, Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-network-nuances-steering-clear-of-trading-traps-on-fb/"><u>Navigating Network Nuances: Steering Clear of Trading Traps on FB</u></a></li>
-<li><a href="https://discover-community.techidaily.com/reparaturstrategien-fur-windows-11-uber-eingabeaufforderung-erfahren-sie-uber-5-effektive-methoden/"><u>Reparaturstrategien Für Windows 11 Über Eingabeaufforderung - Erfahren Sie Über 5 Effektive Methoden!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-tutorial-changing-file-system-from-raw-to-ntfs-safely/"><u>Step-by-Step Tutorial: Changing File System From RAW to NTFS Safely</u></a></li>
-<li><a href="https://discover-community.techidaily.com/ultimate-list-of-free-disk-imaging-tools-for-windows-10-and-11-users/"><u>Ultimate List of Free Disk Imaging Tools for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-essential-tips-for-shooting-talking-head-videos/"><u>Updated Essential Tips for Shooting Talking Head Videos</u></a></li>
-<li><a href="https://discover-community.techidaily.com/wie-man-das-windows-betriebssystem-auf-eine-externe-festplatte-ubertragen-kann-schritt-fur-schritt-guide/"><u>Wie Man Das Windows-Betriebssystem Auf Eine Externe Festplatte Übertragen Kann - Schritt-Für-Schritt-Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[Updated] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoiding-youtubes-controversial-scrutiny/"><u>[Updated] Avoiding YouTube's Controversial Scrutiny</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-selection-winning-16-free-video-experience/"><u>[Updated] Ultimate Selection Winning 16 Free Video Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/i-migliori-programmi-gratuiti-per-lestrazione-e-la-conversione-dei-filmati-da-dvd-a-formato-digitale-mp4-avi-wmv-compatibile-con-windows-10/"><u>I Migliori Programmi Gratuiti per L'estrazione E La Conversione Dei Filmati Da DVD a Formato Digitale (MP4, AVI, WMV) - Compatibile Con Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-top-9-fixes-for-ark-survival-ascendeds-stability-issues-on-pc/"><u>Say Goodbye to Game Interruptions: Top 9 Fixes for ARK: Survival Ascended's Stability Issues on PC</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-10-video-converters-for-windows-1110-safe-reliable-and-speedy-solutions/"><u>Top 10 Video Converters for Windows 11/10: Safe, Reliable, and Speedy Solutions</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ultimate-top-6-must-watch-christmas-getaway-films-your-guide-to-festive-movie-magic/"><u>Ultimate Top 6 Must-Watch Christmas Getaway Films: Your Guide to Festive Movie Magic</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winxdvd-toolkit-professional-dvd-ripping-ai-enhanced-video-editing-and-multi-platform-conversion-features/"><u>WinXDVD Toolkit: Professional DVD Ripping, AI-Enhanced Video Editing & Multi-Platform Conversion Features</u></a></li>
 </ul></div>
 

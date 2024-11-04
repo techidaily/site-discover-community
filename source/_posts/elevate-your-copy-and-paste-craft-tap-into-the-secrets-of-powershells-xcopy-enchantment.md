@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Copy-and-Paste Craft: Tap Into the Secrets of PowerShell's Xcopy Enchantment"
-date: 2024-10-28T07:04:37.025Z
-updated: 2024-10-29T04:36:12.082Z
+date: 2024-10-28T04:02:47.447Z
+updated: 2024-11-03T23:39:36.390Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce6dfc7f79cdd9561a56a5238.jpg
@@ -81,15 +81,22 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -99,13 +106,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -120,10 +120,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -147,16 +147,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -180,10 +174,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -195,10 +189,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -218,24 +212,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/solved-hearthstone-no-sound-issue/"><u>[SOLVED] Hearthstone No Sound Issue</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-5-snipers-essential-windows-cutting-software/"><u>[Updated] 2024 Approved Top 5 Snipers Essential Windows Cutting Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-learning-legends-esteemed-ed-streams-online-for-2024/"><u>[Updated] Learning Legends Esteemed Ed Streams Online for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-speedy-sketching-techniques-for-fortnite-tiles/"><u>[Updated] Speedy Sketching Techniques for Fortnite Tiles</u></a></li>
-<li><a href="https://discover-community.techidaily.com/vidcoder-dvdand/"><u>「VidCoder始める：ダウンロード、インストール、初心者ガイド - DVD&動画変換完全マニュアル」</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-superior-tunefab-recordings/"><u>2024 Approved Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
-<li><a href="https://discover-community.techidaily.com/advanced-dvd-ripper-ai-enhanced-video-conversion-software-by-winxdvd-convert-and-upload-to-iphone-seamlessly/"><u>Advanced DVD Ripper, AI-Enhanced Video Conversion Software by WinXDVD: Convert and Upload to iPhone Seamlessly</u></a></li>
-<li><a href="https://discover-community.techidaily.com/best-video-file-types-compared-why-pick-mkv-or-mp4/"><u>Best Video File Types Compared: Why Pick MKV or MP4?</u></a></li>
-<li><a href="https://discover-community.techidaily.com/combine-multiple-media-streams-into-a-single-mkv-file-using-mkvtoolnix/"><u>Combine Multiple Media Streams Into a Single MKV File Using MKVToolNix</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convertissez-gratuitement-vos-fichiers-mts-en-mp4-avec-ces-3-methodes/"><u>Convertissez Gratuitement Vos Fichiers MTS en MP4 Avec Ces 3 Méthodes</u></a></li>
-<li><a href="https://discover-community.techidaily.com/gratis-herunterladen-von-h265-hevc-encoder-fur-hochauflosende-4k-und-8k-videos/"><u>Gratis Herunterladen Von H.265 Hevc Encoder Für Hochauflösende 4K Und 8K Videos</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-install-mx-player-on-windows-11-or-10-secure-your-free-downloads-now/"><u>How to Install MX Player on Windows 11 or 10 - Secure Your Free Downloads Now!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-cracking-comics-the-essential-guide-to-meme-magic/"><u>In 2024, Cracking Comics The Essential Guide to Meme Magic</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 Ultra Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photo-editing-in-minutes-pixlr-quick-hacks/"><u>In 2024, Mastering Photo Editing in Minutes Pixlr Quick Hacks</u></a></li>
-<li><a href="https://discover-community.techidaily.com/proveedor-experto-en-descargas-de-windows-x-dvd-tu-guia-completa/"><u>Proveedor Experto en Descargas De Windows X DVD: Tu Guía Completa</u></a></li>
-<li><a href="https://discover-community.techidaily.com/the-leading-7-tools-for-unifying-mp4-content-a-step-by-step-mp4-merge-process/"><u>The Leading 7 Tools for Unifying MP4 Content: A Step-by-Step MP4 Merge Process</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-tips-for-exceptional-vr-gaming-video-quality-for-2024/"><u>Ultimate Tips for Exceptional VR Gaming Video Quality for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-make-your-videos-pop-top-animated-text-apps-for-android-and-ios/"><u>Updated In 2024, Make Your Videos Pop Top Animated Text Apps for Android and iOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-customize-your-video-to-pique-instagram-interest-for-2024/"><u>[New] Customize Your Video to Pique Instagram Interest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-script-to-screenplay-expert-video-editing-insights-for-2024/"><u>[New] From Script to Screenplay Expert Video Editing Insights for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-transforming-spontaneitous-tunes-into-structured-youtube-playlists/"><u>[New] In 2024, Transforming Spontaneitous Tunes Into Structured YouTube Playlists</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/202ewin11/"><u>【精心選擇】未來202e年Win11最優秀影片編輯軟體的推薦清單</u></a></li>
+<li><a href="https://discover-community.techidaily.com/dvdmp3-dvd-mp3/"><u>無料DVDからMP3への変換 - DVD MP3変換ツールがあなたの音楽革命を引き起こす</u></a></li>
+<li><a href="https://discover-community.techidaily.com/aigpt/"><u>AI動画制作のコツ：チャットGPTと強力なプラグインを活用してお見事！</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-when-file-explorer-freezes-or-wont-open-on-windows-10-systems/"><u>How to Fix When File Explorer Freezes or Won't Open on Windows 10 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-picture-editing-dynamic-wallpaper-finder/"><u>In 2024, Best Picture Editing Dynamic Wallpaper Finder</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/professionelle-schritte-zur-reparatur-und-wiederherstellung-von-ntfs-datenpartitionen/"><u>Professionelle Schritte Zur Reparatur Und Wiederherstellung Von NTFS-Datenpartitionen</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-5-methods-for-capturing-window-11-screen-and-audio-a-comprehensive-guide/"><u>Top 5 Methods for Capturing Window 11 Screen & Audio: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-boosting-picture-quality-with-5-proven-techniques/"><u>Ultimate Guide: Boosting Picture Quality with 5 Proven Techniques</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winx-dvd-ripper-fur-mac-professioneller-filmkonverter-auf-deinem-mac-kompatibel-mit-iphone-und-ipad/"><u>WinX DVD Ripper Für MAC: Professioneller Filmkonverter Auf Deinem MAC, Kompatibel Mit iPhone Und iPad</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-a-beginners-guide-for-2024/"><u>YouTube Shorts A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/hd-dvd-h265-mp4/"><u>빠른 HD 크리에이터 DVD 확장 - H.265 MP4 형식으로 원형 영상을 스캔</u></a></li>
 </ul></div>
 

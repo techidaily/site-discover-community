@@ -1,7 +1,7 @@
 ---
 title: "Windows 10データのQNAP NASへ安全圧縮: 2つの最適解法"
-date: 2024-10-28T16:17:41.252Z
-updated: 2024-11-03T21:18:41.961Z
+date: 2024-11-08T00:06:13.579Z
+updated: 2024-11-12T19:44:02.009Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d03191ed52125f4aa37e29665125.jpg
@@ -36,10 +36,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -67,6 +67,13 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -97,10 +104,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -112,10 +119,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -127,10 +134,17 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -181,21 +195,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,24 +212,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-generate-humor-picmagic-creation/"><u>[Updated] Generate Humor PicMagic Creation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-studio-editor-step-by-step-video-tutorial-creation/"><u>[Updated] YouTube Studio Editor Step-by-Step Video Tutorial Creation</u></a></li>
-<li><a href="https://discover-community.techidaily.com/vidcoder-dvdand/"><u>「VidCoder始める：ダウンロード、インストール、初心者ガイド - DVD&動画変換完全マニュアル」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/649-macbook-air-m1-deal-exclusive-lowest-price-offer-find-out-how-to-save-big-on-your-next-purchase-cnet/"><u>$649 MacBook Air M1 Deal: Exclusive Lowest Price Offer! Find Out How to Save Big on Your Next Purchase | CNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/advanced-dvd-ripper-ai-enhanced-video-conversion-software-by-winxdvd-convert-and-upload-to-iphone-seamlessly/"><u>Advanced DVD Ripper, AI-Enhanced Video Conversion Software by WinXDVD: Convert and Upload to iPhone Seamlessly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-3d-animation-software-free-trials-and-paid-versions/"><u>Best 3D Animation Software Free Trials and Paid Versions</u></a></li>
-<li><a href="https://discover-community.techidaily.com/best-video-file-types-compared-why-pick-mkv-or-mp4/"><u>Best Video File Types Compared: Why Pick MKV or MP4?</u></a></li>
-<li><a href="https://discover-community.techidaily.com/combine-multiple-media-streams-into-a-single-mkv-file-using-mkvtoolnix/"><u>Combine Multiple Media Streams Into a Single MKV File Using MKVToolNix</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convertissez-gratuitement-vos-fichiers-mts-en-mp4-avec-ces-3-methodes/"><u>Convertissez Gratuitement Vos Fichiers MTS en MP4 Avec Ces 3 Méthodes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-cost-savings-in-electronics-projects-a-detailed-review-of-the-cytron-maker-uno-rp2040-board/"><u>Exploring Cost Savings in Electronics Projects: A Detailed Review of the Cytron Maker Uno RP2040 Board</u></a></li>
-<li><a href="https://discover-community.techidaily.com/gratis-herunterladen-von-h265-hevc-encoder-fur-hochauflosende-4k-und-8k-videos/"><u>Gratis Herunterladen Von H.265 Hevc Encoder Für Hochauflösende 4K Und 8K Videos</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-install-mx-player-on-windows-11-or-10-secure-your-free-downloads-now/"><u>How to Install MX Player on Windows 11 or 10 - Secure Your Free Downloads Now!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-bite-sized-tips-for-aspiring-video-editors/"><u>In 2024, Bite-Sized Tips for Aspiring Video Editors</u></a></li>
-<li><a href="https://discover-community.techidaily.com/proveedor-experto-en-descargas-de-windows-x-dvd-tu-guia-completa/"><u>Proveedor Experto en Descargas De Windows X DVD: Tu Guía Completa</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-vivo-y55s-5g-2023-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y55s 5G (2023) Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/the-leading-7-tools-for-unifying-mp4-content-a-step-by-step-mp4-merge-process/"><u>The Leading 7 Tools for Unifying MP4 Content: A Step-by-Step MP4 Merge Process</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-70-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor 70 Lite 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-guide-for-popular-screen-recorder-zd-soft/"><u>[New] In 2024, Ultimate Guide for Popular Screen Recorder ZD Soft</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-profiting-off-reddit-13-ways-here/"><u>[Updated] The Ultimate Guide to Profiting Off Reddit - 13 Ways Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-image-safekeepers-online/"><u>2024 Approved Prime Image Safekeepers Online</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1725289874621-2024dvd/"><u>2024上市的縮放功能卓越的無限制影片DVD複製程式</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728487552125-yahoo/"><u>解決方法：如何迅速修復Yahoo郵箱消息失去情況</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-exceptional-performance-comprehensive-guide-to-free-4k-h23050837ehc-video-viewer-applications/"><u>Discover Exceptional Performance: Comprehensive Guide to Free 4K H.2^3050837EHC Video Viewer Applications</u></a></li>
+<li><a href="https://discover-community.techidaily.com/dvd-decrypter-windows-11/"><u>DVD Decrypter ソフトウェアがWindows 11と並行して機能する手順: エラーハンドリングについて詳細</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ecco-le-lettori-dvd-gratis-per-windows-11-il-metodo-facile-per-convertire-e-guardare-qualsiasi-dvd/"><u>Ecco Le Lettori DVD Gratis Per Windows 11: Il Metodo Facile per Convertire E Guardare Qualsiasi DVD!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effortless-media-recording-with-winxvideo-ai-seamlessly-capture-your-screen-webcam-and-audio/"><u>Effortless Media Recording with Winxvideo AI: Seamlessly Capture Your Screen, Webcam, and Audio</u></a></li>
+<li><a href="https://discover-community.techidaily.com/free-and-easy-winx-dvd-ripper-ultimate-video-converter-and-dvd-creator-for-windows-users/"><u>Free & Easy WinX DVD Ripper: Ultimate Video Converter & DVD Creator for Windows Users</u></a></li>
+<li><a href="https://discover-community.techidaily.com/gratis-winx-transforme-videos-em-mp4-e-mp3-com-qualidade-de-4khd/"><u>Gratis WinX - Transforme Vídeos Em MP4 E MP3 Com Qualidade De 4K/HD</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-find-n3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Find N3 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-hot-plugging-shortfall/"><u>Overcome Hot-Plugging Shortfall</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-the-proc-not-invoked-error-in-malwarebytes-on-windows/"><u>Remedy for the Proc Not Invoked Error in Malwarebytes on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-edge-40-neo-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola Edge 40 Neo Screen | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winxdvd-user-guide-essential-tips-and-tricks-for-optimal-dvd-handling/"><u>WinXDVD User Guide - Essential Tips and Tricks for Optimal DVD Handling</u></a></li>
 </ul></div>
 

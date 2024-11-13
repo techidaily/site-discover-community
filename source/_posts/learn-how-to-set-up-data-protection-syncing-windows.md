@@ -1,7 +1,7 @@
 ---
 title: "Learn How to Set Up Data Protection: Syncing Windows"
-date: 2024-11-02T20:24:39.024Z
-updated: 2024-11-03T17:13:37.890Z
+date: 2024-11-07T16:55:37.816Z
+updated: 2024-11-12T20:28:49.557Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37be4db7347e6bdc7775fbd6e2.jpg
@@ -38,13 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -56,10 +49,10 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
@@ -86,13 +79,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -106,10 +92,23 @@ You can expand the Deleted files folder and Other missing files folder to select
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
@@ -156,32 +155,40 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -212,13 +219,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -240,10 +240,10 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
@@ -255,10 +255,10 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
@@ -278,20 +278,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[New] Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-desktop-based-tiktok-videos/"><u>[New] In 2024, The Ultimate Guide to Desktop-Based TikTok Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-best-available-avi-player-with-cross-platform-support/"><u>[Updated] Best Available Avi Player with Cross-Platform Support</u></a></li>
-<li><a href="https://discover-data.techidaily.com/6-simple-steps-moving-your-information-from-android-phones-to-new-iphones-12-pro-pro-max-and-mini/"><u>6 Simple Steps: Moving Your Information From Android Phones to New iPhones (12 Pro, Pro Max & Mini)</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1725285959453-ai-winxvideo-4k-8k-10k/"><u>AI 기술 Winxvideo에 의한 고해상도(4K, 8K, 10K) 이미지 확대/회수 방법</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convertir-rapidement-une-image-iso-en-mp4-en-moins-de-5-minutes-guide-simple/"><u>Convertir Rapidement Une Image ISO en MP4 en Moins De 5 Minutes - Guide Simple</u></a></li>
-<li><a href="https://discover-community.techidaily.com/expert-tips-for-faster-video-encoding-unveiling-4-key-strategies-to-enhance-speed-and-efficiency/"><u>Expert Tips for Faster Video Encoding - Unveiling 4 Key Strategies to Enhance Speed and Efficiency</u></a></li>
-<li><a href="https://discover-community.techidaily.com/guide-doptimisation-des-parametres-de-bitrate-et-resolution-dans-handbrake-pour-la-conversion-video/"><u>Guide D'Optimisation Des Paramètres De Bitrate Et Résolution Dans Handbrake Pour La Conversion Vidéo</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-g310-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia G310 and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/schritt-fur-schritt-migrationen-von-icloud-kontakten-zu-einer-neuen-cloudlosung/"><u>Schritt-Für-Schritt: Migrationen Von iCloud-Kontakten Zu Einer Neuen Cloudlösung</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-guide-removing-drm-from-your-aaxaa-audio-content/"><u>Step-by-Step Guide: Removing DRM From Your AAX/AA Audio Content</u></a></li>
-<li><a href="https://discover-community.techidaily.com/top-12-excelentes-convertidores-de-video-libres-en-4k-para-computadoras-y-mac-desde-1080p-a-ultra-hd/"><u>Top 12 Excelentes Convertidores De Video Libres en 4K Para Computadoras Y Mac: Desde 1080P a Ultra HD</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-the-missing-headphone-issue-in-windows-11/"><u>Troubleshooting Guide: Resolving the Missing Headphone Issue in Windows 11</u></a></li>
-<li><a href="https://discover-community.techidaily.com/turning-audio-content-into-mp3s-on-your-computer-a-comprehensive-how-to-tutorial/"><u>Turning Audio Content Into MP3s on Your Computer - A Comprehensive How-To Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-nvidia-cp-not-opening-quick-fixes-guide/"><u>Windows 11 Nvidia CP Not Opening: Quick Fixes Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-detailed-review-the-essence-of-hero4-black/"><u>[New] In 2024, Detailed Review The Essence of Hero4 Black</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-allure-of-benq-sw320-4k-pro-display-for-2024/"><u>[Updated] The Allure of BenQ SW320 4K Pro Display for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-notch-assistance-highest-rated-iphone-ringtone-makers/"><u>[Updated] Top-Notch Assistance Highest Rated iPhone Ringtone Makers</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winx-mediatrans-iphoneipadipodpcandwindows10/"><u>『公式』WinX MediaTrans - iPhone/iPad/iPodデータの最適な移行と管理ソフトウェア！PC間シームレス転送&Windows(10)対応</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-top-3-free-dvd-ripping-tools-for-windows-11-convert-to-mp4-avi-and-wmv-seamlessly/"><u>1. Top 3 Free DVD Ripping Tools for Windows 11: Convert to MP4, AVI & WMV Seamlessly</u></a></li>
+<li><a href="https://discover-community.techidaily.com/3-top-rated-dvd-ripping-software-for-free-on-windows-11-mp4-avi-and-wmv-conversion-guides/"><u>3 Top-Rated DVD Ripping Software for Free on Windows 11 - MP4, AVI & WMV Conversion Guides</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-90-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor 90</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-data-step-by-step-photovideo-save/"><u>Decoding Facebook's Data – Step by Step Photo/Video Save</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1725286117942-dvdcd/"><u>DVD音声ファイルがオーディオCD用に変換するためのステップ</u></a></li>
+<li><a href="https://discover-community.techidaily.com/easy-guide-for-windows-users-converting-and-saving-dvds-as-mkv-files-using-makemkv-on-the-latest-operating-systems/"><u>Easy Guide for Windows Users: Converting and Saving DVDs as MKV Files Using MakeMKV on the Latest Operating Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-15-pro-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 15 Pro Safe and Legal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-guide-for-unifying-your-music-collections-in-spotify-playlists/"><u>How-To Guide for Unifying Your Music Collections in Spotify Playlists</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y78plus-t1-edition-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y78+ (T1) Edition to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fix-for-freezing-photo-booth-videos-that-disrupt-usage/"><u>In 2024, Fix for Freezing Photo Booth Videos That Disrupt Usage</u></a></li>
+<li><a href="https://discover-community.techidaily.com/lossless-conversion-techniques-transforming-hevc-files-into-high-quality-mp4/"><u>Lossless Conversion Techniques: Transforming HEVC Files Into High-Quality MP4</u></a></li>
+<li><a href="https://discover-community.techidaily.com/resolving-video-stutters-and-lag-in-mkv-files-on-vlc-and-compatible-media-players/"><u>Resolving Video Stutters & Lag in MKV Files on VLC & Compatible Media Players</u></a></li>
+<li><a href="https://discover-community.techidaily.com/the-ultimate-guide-to-h265-h265-transcoding-tools-in-2e24-for-windows-and-mac-users/"><u>The Ultimate Guide to H.265 (H265) Transcoding Tools in 2E24 - For Windows and Mac Users</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ultimate-guide-removing-lions-gate-dvd-protection-and-bypassing-playlist-camouflage/"><u>Ultimate Guide: Removing Lion's Gate DVD Protection & Bypassing Playlist Camouflage</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-sound-experience-dolby-atmos-windows-install/"><u>Ultimate Sound Experience: Dolby Atmos Windows Install</u></a></li>
 </ul></div>
 

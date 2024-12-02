@@ -1,7 +1,7 @@
 ---
 title: Best Webcam Integration Apps Compatible with Google+ - Discover ManyCam
-date: 2024-10-13T19:27:52.283Z
-updated: 2024-10-17T21:13:52.774Z
+date: 2024-11-24T18:20:02.173Z
+updated: 2024-12-01T16:31:17.968Z
 tags:
   - product
   - solution
@@ -21,10 +21,18 @@ Click on the Settings button in the Google Hangout window, choose ManyCam Virtua
 ![](https://manycam.com/build/images/help/settings/Google_plus_settings.jpg?v=da7f715ab5)   
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
   
 Click on the Settings button in the Google Hangout window, choose "ManyCam Virtual Microphone" in the list of cameras and press "Save Settings".
 
 ![](https://manycam.com/build/images/help/settings/audio/google_plus.jpg?v=d9fd58af96) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Was this article helpful?** 
 
@@ -34,16 +42,7 @@ Click on the Settings button in the Google Hangout window, choose "ManyCam Virtu
 Please wait 
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Log in
@@ -61,19 +60,13 @@ Log in
  Don’t have an account yet? Create one now ! 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create an Account
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It takes less than a minute. If you already have an account, please Log in.
@@ -128,16 +121,18 @@ If you have a license key please convert it [HERE](https://tools.techidaily.com/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-instant-ideas-recording-ppts-with-ease/"><u>[New] Instant Ideas Recording PPTs with Ease</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-collection-top-9-premium-wedding-movies-online/"><u>[Updated] Essential Collection Top 9 Premium Wedding Movies Online</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-video-enlargement-on-youtube-for-2024/"><u>[Updated] Mastering Video Enlargement on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-of-youtube-shorts-success/"><u>[Updated] Unveiling the Secrets of YouTube Shorts Success</u></a></li>
-<li><a href="https://discover-community.techidaily.com/comprehensive-comparison-asustor-backup-strategy-and-competing-solutions-unveiled/"><u>Comprehensive Comparison: ASUSTOR Backup Strategy & Competing Solutions Unveiled</u></a></li>
-<li><a href="https://discover-community.techidaily.com/descubriendo-como-consultar-los-registros-de-copia-de-seguridad-en-aomei-backupper/"><u>Descubriendo Cómo Consultar Los Registros De Copia De Seguridad en AOMEI Backupper</u></a></li>
-<li><a href="https://discover-community.techidaily.com/installazione-facile-e-rapida-dellssd-come-scambiare-disco-rigido-con-ssd-sul-tuo-computer-da-lavoro/"><u>Installazione Facile E Rapida Dell'SSD: Come Scambiare Disco Rigido Con SSD Sul Tuo Computer Da Lavoro</u></a></li>
-<li><a href="https://discover-community.techidaily.com/onedrive-pc/"><u>OneDriveへの PC ファイルバックアップ: 簡単な設定方法と重要ポイント</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/save-your-favorite-tv-shows-as-mp4wmvmovaviflv-files-for-easy-viewing/"><u>Save Your Favorite TV Shows as MP4/WMV/MOV/AVI/FLV Files for Easy Viewing</u></a></li>
-<li><a href="https://discover-community.techidaily.com/solving-the-mystery-of-vanishing-pictures-from-your-cameras-sd-card-a-step-by-step-guide/"><u>Solving the Mystery of Vanishing Pictures From Your Camera's SD Card - A Step-by-Step Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-expert-strategies-for-attaching-melodies-to-desktop-and-mobile-media-files-for-2024/"><u>Updated Expert Strategies for Attaching Melodies to Desktop and Mobile Media Files for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-trustworthy-tactics-for-multiplying-a-million-views-on-youtube/"><u>2024 Approved Trustworthy Tactics for Multiplying a Million Views on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-realtek-audio-controller-drivers-available-without-charge-start-here/"><u>ASUS Realtek Audio Controller Drivers Available Without Charge – Start Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/coding-showdown-comparing-chatgpt-and-geminis-ai-capabilities/"><u>Coding Showdown: Comparing ChatGPT and Gemini's AI Capabilities</u></a></li>
+<li><a href="https://discover-community.techidaily.com/download-hindi-movies-at-no-cost-look-out-for-english-captions-options/"><u>Download Hindi Movies at No Cost - Look Out for English Captions Options</u></a></li>
+<li><a href="https://discover-community.techidaily.com/easy-techniques-to-divide-videos-smoothly-in-windows-11-a-step-by-step-guide/"><u>Easy Techniques to Divide Videos Smoothly in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effective-techniques-for-editing-and-cropping-zoom-recordings-cloud-based-and-local-file-solutions/"><u>Effective Techniques for Editing and Cropping Zoom Recordings: Cloud-Based & Local File Solutions</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effortless-watching-of-mkv-movies-steps-to-ensure-seamless-viewing-on-your-ipad/"><u>Effortless Watching of MKV Movies: Steps to Ensure Seamless Viewing on Your iPad</u></a></li>
+<li><a href="https://discover-community.techidaily.com/enabling-or-disabling-hardware-acceleration-feature-on-dvd-ripper-pro-free-dvd-ripper-and-dvd-video-converter/"><u>Enabling or Disabling Hardware Acceleration Feature on DVD Ripper Pro, Free DVD Ripper & DVD Video Converter</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/expert-strategies-for-managing-facebook-lives-in-two-screens-for-2024/"><u>Expert Strategies for Managing Facebook Lives in Two Screens for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exploring-picsarts-latest-features-a-complete-guide-and-review-of-its-revamp/"><u>Exploring PicsArt's Latest Features – A Complete Guide & Review of Its Revamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/supporting-the-unsupported-life-after-windows-781/"><u>Supporting the Unsupported: Life After Windows 7/8.1</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-guide-to-lip-syncing-5-essential-apps-you-need/"><u>Updated In 2024, The Ultimate Guide to Lip Syncing 5 Essential Apps You Need</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-platinum-quick-and-easy-dvd-to-mp4-conversion-within-5-minutes-h2/"><u>WinX DVD Ripper Platinum: Quick & Easy DVD to MP4 Conversion Within 5 Minutes | H.2([官方])</u></a></li>
 </ul></div>
 

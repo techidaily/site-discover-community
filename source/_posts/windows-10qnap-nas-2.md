@@ -1,7 +1,7 @@
 ---
 title: "Windows 10データのQNAP NASへ安全圧縮: 2つの最適解法"
-date: 2025-02-06T03:52:13.777Z
-updated: 2025-02-08T17:28:09.741Z
+date: 2025-02-11T17:00:19.775Z
+updated: 2025-02-18T19:05:08.499Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d03191ed52125f4aa37e29665125.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
@@ -31,6 +31,10 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -47,7 +51,15 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -77,10 +89,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -88,6 +96,10 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -97,10 +109,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -109,10 +117,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,14 +124,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,6 +140,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -180,7 +180,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,20 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-beginners-guide-to-changing-speed-up-in-videos-on-snapchat/"><u>[New] Beginner’s Guide to Changing Speed Up in Videos on Snapchat</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-essential-first-timer-props-for-gopros-for-2024/"><u>[New] Essential First-Timer Props for GoPros for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-smart-choices-best-vimeo-video-downloader-apps/"><u>[New] Smart Choices Best Vimeo Video Downloader Apps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[New] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-6s-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 6s Plus</u></a></li>
-<li><a href="https://discover-community.techidaily.com/discover-the-leading-7-freebie-mp3-download-platforms-unlock-a-world-of-music-without-spending-a-dime/"><u>Discover the Leading 7 Freebie MP3 Download Platforms - Unlock a World of Music Without Spending a Dime</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dissecting-the-social-media-landscape-the-case-of-triller-and-tiktok/"><u>Dissecting the Social Media Landscape The Case of Triller & TikTok</u></a></li>
-<li><a href="https://discover-community.techidaily.com/diy-dvd-duplication-easy-methods-for-replicating-your-favorite-movies-and-shows/"><u>DIY DVD Duplication: Easy Methods for Replicating Your Favorite Movies and Shows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-guide-to-correcting-discords-javascript-problems/"><u>Effortless Guide to Correcting Discord's JavaScript Problems</u></a></li>
-<li><a href="https://discover-community.techidaily.com/effortless-methods-to-combine-dvd-episodes-into-one-continuous-film-in-minutes/"><u>Effortless Methods to Combine DVD Episodes Into One Continuous Film in Minutes</u></a></li>
-<li><a href="https://discover-community.techidaily.com/experience-effortless-iphone-video-editing-swift-premium-quality-converters-with-lightning-speeds/"><u>Experience Effortless iPhone Video Editing: Swift, Premium-Quality Converters with Lightning Speeds!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-13-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 13 Pro Max or iPad?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://discover-community.techidaily.com/prprojadobe-premiere-promp4/"><u>PRPROJファイルをAdobe Premiere ProでMP4に最適化して変換する方法</u></a></li>
-<li><a href="https://discover-community.techidaily.com/simple-fixes-to-get-your-youtube-running-smoothly-again-overcoming-not-responding-issues/"><u>Simple Fixes to Get Your YouTube Running Smoothly Again: Overcoming 'Not Responding' Issues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cracking-the-code-knowing-your-posts-spectators-on-instagram/"><u>[New] Cracking The Code Knowing Your Post's Spectators on Instagram</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-alternatives-3-best-video-sharing-sites/"><u>[New] In 2024, YouTube Alternatives 3 Best Video Sharing Sites</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-youtube-posts-via-instagram-stories-for-2024/"><u>[New] Mastering the Art of YouTube Posts via Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-showdown-twitchs-challenge-to-youtubes-market-for-2024/"><u>[New] The Ultimate Showdown Twitch's Challenge to YouTube's Market for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-videos-top-10-youtube-to-webm-converters/"><u>[Updated] Streamline Your Videos Top 10 YouTube-to-WebM Converters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-premium-sound-to-text-converters/"><u>2024 Approved Premium Sound to Text Converters</u></a></li>
+<li><a href="https://discover-community.techidaily.com/7-free-techniques-to-record-audio-using-your-desktop-or-laptop/"><u>7 Free Techniques to Record Audio Using Your Desktop or Laptop</u></a></li>
+<li><a href="https://discover-community.techidaily.com/conversion-libre-de-caf-vers-aiff-sur-internet-movavi/"><u>Conversion Libre De CAF Vers AIFF Sur Internet - Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/descarga-la-herramienta-en-linea-para-convertir-videos-mkv-a-swf-sin-costo-alguno-y-facil-como-movavi-conversor-de-archivos-mkv-a-swf/"><u>Descarga La Herramienta en Línea Para Convertir Vídeos MKV a SWF Sin Costo Alguno Y Fácil Como Movavi - Conversor De Archivos MKV a SWF</u></a></li>
+<li><a href="https://discover-community.techidaily.com/free-mp4-file-creation-from-mpeg-videos-on-the-web-easy-guide-using-movavi/"><u>Free MP4 File Creation From MPEG Videos on the Web - Easy Guide Using Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/gratuit-online-omvangrijke-mmf-naar-wav-conversie-de-beste-zoektocht-voor-professionals/"><u>Gratuit Online Omvangrijke Mmf Naar Wav-Conversie - De Beste Zoektocht Voor Professionals</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nubia-red-magic-8s-proplus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nubia Red Magic 8S Pro+ Without PUK Codes</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726220193572-m4amp3/"><u>M4A到MP3的直接關口：高效免費方法 | 電子音樂保存術</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-the-identity-of-viewers-on-youtube/"><u>Revealing the Identity of Viewers on YouTube</u></a></li>
+<li><a href="https://discover-community.techidaily.com/trasforma-i-tuoi-file-mov-in-contenuto-ottimizzato-per-la-web-soluzione-di-conversione-gratis-con-movavi/"><u>Trasforma I Tuoi File MOV in Contenuto Ottimizzato per La Web: Soluzione Di Conversione Gratis Con Movavi</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726227157968-mkvmp4-movavi/"><u>オンラインでも安全にMKVファイルをMP4に自由変換 - Movavi</u></a></li>
 </ul></div>
 
